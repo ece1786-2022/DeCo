@@ -1,0 +1,2965 @@
+ticker,code,Industry_group_code,Industry_group_name
+A,35203010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+AA,15104010,1510,Materials
+AAL,20302010,2030,Transportation
+AAN,25504060,2550,Retailing
+AAOI,45201020,4520,Technology Hardware & Equipment
+AAON,20102010,2010,Capital Goods
+AAP,25504050,2550,Retailing
+AAPL,45202030,4520,Technology Hardware & Equipment
+AAT,60101010,6010,Real Estate
+AAWW,20301010,2030,Transportation
+AAXN,20101010,2010,Capital Goods
+ABBV,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+ABC,35102010,3510,Health Care Equipment & Services
+ABCB,40101015,4010,Banks
+ABEO,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+ABG,25504050,2550,Retailing
+ABM,20201050,2020,Commercial & Professional Services
+ABMD,35101010,3510,Health Care Equipment & Services
+ABT,35101010,3510,Health Care Equipment & Services
+ABTX,40101015,4010,Banks
+AC,40203010,4020,Diversified Financials
+ACA,20103010,2010,Capital Goods
+ACAD,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+ACBI,40101015,4010,Banks
+ACC,60101060,6010,Real Estate
+ACCO,20201060,2020,Commercial & Professional Services
+ACER,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+ACGL,40301040,4030,Insurance
+ACHC,35102020,3510,Health Care Equipment & Services
+ACIA,45201020,4520,Technology Hardware & Equipment
+ACIW,45103010,4510,Software & Services
+ACLS,45301010,4530,Semiconductors & Semiconductor Equipment
+ACM,20103010,2010,Capital Goods
+ACN,45102010,4510,Software & Services
+ACNB,40101015,4010,Banks
+ACOR,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+ACRE,40204010,4020,Diversified Financials
+ACRS,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+ACRX,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+ACTG,20202020,2020,Commercial & Professional Services
+ADBE,45103010,4510,Software & Services
+ADC,60101070,6010,Real Estate
+ADES,15101050,1510,Materials
+ADI,45301020,4530,Semiconductors & Semiconductor Equipment
+ADM,30202010,3020,"Food, Beverage & Tobacco"
+ADMA,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+ADMS,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+ADNT,25101010,2510,Automobiles & Components
+ADP,45102020,4510,Software & Services
+ADPT,35203010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+ADRO,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+ADS,45102020,4510,Software & Services
+ADSK,45103010,4510,Software & Services
+ADSW,20201050,2020,Commercial & Professional Services
+ADT,20201080,2020,Commercial & Professional Services
+ADTN,45201020,4520,Technology Hardware & Equipment
+ADUS,35102015,3510,Health Care Equipment & Services
+ADVM,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+AEE,55103010,5510,Utilities
+AEGN,20103010,2010,Capital Goods
+AEIS,45301010,4530,Semiconductors & Semiconductor Equipment
+AEL,40301020,4030,Insurance
+AEO,25504010,2550,Retailing
+AEP,55101010,5510,Utilities
+AERI,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+AES,55105010,5510,Utilities
+AFG,40301030,4030,Insurance
+AFI,20102010,2010,Capital Goods
+AFIN,60101070,6010,Real Estate
+AFL,40301020,4030,Insurance
+AFMD,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+AGCO,20106015,2010,Capital Goods
+AGE,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+AGEN,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+AGIO,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+AGLE,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+AGM,40102010,4010,Banks
+AGNC,40204010,4020,Diversified Financials
+AGO,40301040,4030,Insurance
+AGR,55101010,5510,Utilities
+AGS,25301010,2530,Consumer Services
+AGX,20103010,2010,Capital Goods
+AGYS,45103010,4510,Software & Services
+AHH,60101010,6010,Real Estate
+AHT,60101030,6010,Real Estate
+AI,40204010,4020,Diversified Financials
+AIG,40301030,4030,Insurance
+AIMC,20106020,2010,Capital Goods
+AIMT,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+AIN,20106020,2010,Capital Goods
+AIR,20101010,2010,Capital Goods
+AIRG,45203015,4520,Technology Hardware & Equipment
+AIT,20107010,2010,Capital Goods
+AIV,60101060,6010,Real Estate
+AIZ,40301030,4030,Insurance
+AJG,40301010,4030,Insurance
+AJRD,20101010,2010,Capital Goods
+AJX,40204010,4020,Diversified Financials
+AKAM,45102030,4510,Software & Services
+AKBA,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+AKCA,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+AKR,60101070,6010,Real Estate
+AKRO,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+AKRX,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+AKTS,45203015,4520,Technology Hardware & Equipment
+AL,20107010,2010,Capital Goods
+ALB,15101050,1510,Materials
+ALBO,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+ALCO,30202010,3020,"Food, Beverage & Tobacco"
+ALDX,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+ALE,55101010,5510,Utilities
+ALEC,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+ALEX,60101010,6010,Real Estate
+ALG,20106010,2010,Capital Goods
+ALGN,35101020,3510,Health Care Equipment & Services
+ALGT,20302010,2030,Transportation
+ALK,20302010,2030,Transportation
+ALKS,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+ALL,40301040,4030,Insurance
+ALLE,20102010,2010,Capital Goods
+ALLK,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+ALLO,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+ALLY,40202010,4020,Diversified Financials
+ALNY,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+ALOT,45202030,4520,Technology Hardware & Equipment
+ALRM,45103010,4510,Software & Services
+ALRS,40201020,4020,Diversified Financials
+ALSN,20106010,2010,Capital Goods
+ALTM,10102040,1010,Energy
+ALTR,45103010,4510,Software & Services
+ALX,60101070,6010,Real Estate
+ALXN,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+AM,10102040,1010,Energy
+AMAG,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+AMAL,40101015,4010,Banks
+AMAT,45301010,4530,Semiconductors & Semiconductor Equipment
+AMBA,45301020,4530,Semiconductors & Semiconductor Equipment
+AMBC,40301040,4030,Insurance
+AMC,50202010,5020,Media & Entertainment
+AMCX,50201020,5020,Media & Entertainment
+AMD,45301020,4530,Semiconductors & Semiconductor Equipment
+AME,20104010,2010,Capital Goods
+AMED,35102015,3510,Health Care Equipment & Services
+AMEH,35102015,3510,Health Care Equipment & Services
+AMG,40203010,4020,Diversified Financials
+AMGN,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+AMH,60101060,6010,Real Estate
+AMK,40203010,4020,Diversified Financials
+AMKR,45301010,4530,Semiconductors & Semiconductor Equipment
+AMN,35102015,3510,Health Care Equipment & Services
+AMNB,40101015,4010,Banks
+AMOT,20104010,2010,Capital Goods
+AMP,40203010,4020,Diversified Financials
+AMPH,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+AMPY,10102020,1010,Energy
+AMRC,20103010,2010,Capital Goods
+AMRS,15101050,1510,Materials
+AMRX,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+AMSC,20104010,2010,Capital Goods
+AMSF,40301040,4030,Insurance
+AMSWA,45103010,4510,Software & Services
+AMT,60101080,6010,Real Estate
+AMTB,40101015,4010,Banks
+AMTD,40203020,4020,Diversified Financials
+AMWD,20102010,2010,Capital Goods
+AMZN,25502020,2550,Retailing
+AN,25504050,2550,Retailing
+ANAB,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+ANAT,40301030,4030,Insurance
+ANDE,30101020,3010,Food & Staples Retailing
+ANET,45201020,4520,Technology Hardware & Equipment
+ANF,25504010,2550,Retailing
+ANGO,35101010,3510,Health Care Equipment & Services
+ANH,40204010,4020,Diversified Financials
+ANIK,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+ANIP,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+ANSS,45103010,4510,Software & Services
+ANTM,35102030,3510,Health Care Equipment & Services
+AOBC,25202010,2520,Consumer Durables & Apparel
+AON,40301010,4030,Insurance
+AOS,20102010,2010,Capital Goods
+AOSL,45301020,4530,Semiconductors & Semiconductor Equipment
+APA,10102020,1010,Energy
+APAM,40203010,4020,Diversified Financials
+APD,15101040,1510,Materials
+APEI,25302010,2530,Consumer Services
+APH,45203015,4520,Technology Hardware & Equipment
+APLE,60101030,6010,Real Estate
+APLS,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+APLT,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+APOG,20102010,2010,Capital Goods
+APPF,45103010,4510,Software & Services
+APPN,45103020,4510,Software & Services
+APPS,45103010,4510,Software & Services
+APRE,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+APTS,60101060,6010,Real Estate
+APTV,25101010,2510,Automobiles & Components
+APY,10101020,1010,Energy
+APYX,35101010,3510,Health Care Equipment & Services
+AQUA,20106020,2010,Capital Goods
+AR,10102020,1010,Energy
+ARA,35102015,3510,Health Care Equipment & Services
+ARAY,35101010,3510,Health Care Equipment & Services
+ARCB,20304020,2030,Transportation
+ARCH,10102050,1010,Energy
+ARD,15103010,1510,Materials
+ARDX,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+ARE,60101040,6010,Real Estate
+ARES,40203010,4020,Diversified Financials
+ARGO,40301040,4030,Insurance
+ARI,40204010,4020,Diversified Financials
+ARL,60102020,6010,Real Estate
+ARLO,45203010,4520,Technology Hardware & Equipment
+ARMK,25301040,2530,Consumer Services
+ARNA,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+ARNC,15104010,1510,Materials
+AROC,10101020,1010,Energy
+AROW,40101015,4010,Banks
+ARQT,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+ARR,40204010,4020,Diversified Financials
+ARTNA,55104010,5510,Utilities
+ARVN,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+ARW,45203030,4520,Technology Hardware & Equipment
+ARWR,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+ASB,40101015,4010,Banks
+ASC,10102040,1010,Energy
+ASGN,20202010,2020,Commercial & Professional Services
+ASH,15101050,1510,Materials
+ASIX,15101010,1510,Materials
+ASMB,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+ASNA,25504010,2550,Retailing
+ASPS,60102040,6010,Real Estate
+ASRT,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+ASTE,20106010,2010,Capital Goods
+AT,55105010,5510,Utilities
+ATEC,35101010,3510,Health Care Equipment & Services
+ATEN,45103020,4510,Software & Services
+ATEX,50101010,5010,Telecommunication Services
+ATGE,25302010,2530,Consumer Services
+ATH,40301020,4030,Insurance
+ATHX,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+ATI,15104050,1510,Materials
+ATKR,20104010,2010,Capital Goods
+ATLO,40101015,4010,Banks
+ATNI,50101020,5010,Telecommunication Services
+ATNX,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+ATO,55102010,5510,Utilities
+ATR,15103010,1510,Materials
+ATRA,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+ATRC,35101010,3510,Health Care Equipment & Services
+ATRI,35101020,3510,Health Care Equipment & Services
+ATRO,20101010,2010,Capital Goods
+ATRS,35101020,3510,Health Care Equipment & Services
+ATSG,20301010,2030,Transportation
+ATUS,50201030,5020,Media & Entertainment
+ATVI,50202020,5020,Media & Entertainment
+AUB,40101015,4010,Banks
+AVA,55103010,5510,Utilities
+AVAV,20101010,2010,Capital Goods
+AVB,60101060,6010,Real Estate
+AVCO,35102015,3510,Health Care Equipment & Services
+AVD,15101030,1510,Materials
+AVGO,45301020,4530,Semiconductors & Semiconductor Equipment
+AVID,45202030,4520,Technology Hardware & Equipment
+AVLR,45103010,4510,Software & Services
+AVNS,35101020,3510,Health Care Equipment & Services
+AVRO,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+AVT,45203030,4520,Technology Hardware & Equipment
+AVTR,35203010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+AVXL,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+AVY,15103020,1510,Materials
+AVYA,45103010,4510,Software & Services
+AWI,20102010,2010,Capital Goods
+AWK,55104010,5510,Utilities
+AWR,55104010,5510,Utilities
+AX,40102010,4010,Banks
+AXAS,10102020,1010,Energy
+AXDX,35101010,3510,Health Care Equipment & Services
+AXE,45203030,4520,Technology Hardware & Equipment
+AXGN,35101010,3510,Health Care Equipment & Services
+AXL,25101010,2510,Automobiles & Components
+AXLA,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+AXNX,35101010,3510,Health Care Equipment & Services
+AXP,40202010,4020,Diversified Financials
+AXS,40301040,4030,Insurance
+AXSM,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+AXTA,15101050,1510,Materials
+AXTI,45301010,4530,Semiconductors & Semiconductor Equipment
+AYI,20104010,2010,Capital Goods
+AYX,45103010,4510,Software & Services
+AZO,25504050,2550,Retailing
+AZPN,45103010,4510,Software & Services
+AZZ,20104020,2010,Capital Goods
+B,20106020,2010,Capital Goods
+BA,20101010,2010,Capital Goods
+BAC,40101010,4010,Banks
+BAH,45102010,4510,Software & Services
+BANC,40101015,4010,Banks
+BAND,50101010,5010,Telecommunication Services
+BANF,40101015,4010,Banks
+BANR,40101015,4010,Banks
+BATRA,50202010,5020,Media & Entertainment
+BATRK,50202010,5020,Media & Entertainment
+BAX,35101010,3510,Health Care Equipment & Services
+BBBY,25504060,2550,Retailing
+BBCP,20103010,2010,Capital Goods
+BBIO,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+BBSI,20202010,2020,Commercial & Professional Services
+BBX,25301020,2530,Consumer Services
+BBY,25504020,2550,Retailing
+BC,25202010,2520,Consumer Durables & Apparel
+BCBP,40101015,4010,Banks
+BCC,15105010,1510,Materials
+BCEI,10102020,1010,Energy
+BCEL,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+BCML,40101015,4010,Banks
+BCO,20201080,2020,Commercial & Professional Services
+BCOR,40203010,4020,Diversified Financials
+BCOV,45102030,4510,Software & Services
+BCPC,15101050,1510,Materials
+BCRX,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+BDC,45203015,4520,Technology Hardware & Equipment
+BDGE,40101015,4010,Banks
+BDN,60101040,6010,Real Estate
+BDSI,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+BDTX,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+BDX,35101010,3510,Health Care Equipment & Services
+BE,20104020,2010,Capital Goods
+BEAM,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+BEAT,35102015,3510,Health Care Equipment & Services
+BECN,20107010,2010,Capital Goods
+BELFB,45203015,4520,Technology Hardware & Equipment
+BEN,40203010,4020,Diversified Financials
+BERY,15103010,1510,Materials
+BF/A,30201020,3020,"Food, Beverage & Tobacco"
+BF/B,30201020,3020,"Food, Beverage & Tobacco"
+BFAM,25302010,2530,Consumer Services
+BFC,40101015,4010,Banks
+BFIN,40101015,4010,Banks
+BFS,60101070,6010,Real Estate
+BFST,40101015,4010,Banks
+BFYT,40301010,4030,Insurance
+BG,30202010,3020,"Food, Beverage & Tobacco"
+BGCP,40203020,4020,Diversified Financials
+BGG,20106020,2010,Capital Goods
+BGS,30202030,3020,"Food, Beverage & Tobacco"
+BGSF,20202010,2020,Commercial & Professional Services
+BH,25301040,2530,Consumer Services
+BHB,40101015,4010,Banks
+BHE,45203020,4520,Technology Hardware & Equipment
+BHF,40301020,4030,Insurance
+BHLB,40101015,4010,Banks
+BHR,60101030,6010,Real Estate
+BHVN,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+BIG,25503020,2550,Retailing
+BIIB,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+BILL,45103010,4510,Software & Services
+BIO,35203010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+BJ,30101040,3010,Food & Staples Retailing
+BJRI,25301040,2530,Consumer Services
+BK,40203010,4020,Diversified Financials
+BKD,35102020,3510,Health Care Equipment & Services
+BKE,25504010,2550,Retailing
+BKH,55103010,5510,Utilities
+BKI,45102020,4510,Software & Services
+BKNG,25502020,2550,Retailing
+BKR,10101020,1010,Energy
+BKU,40101015,4010,Banks
+BL,45103010,4510,Software & Services
+BLBD,20106010,2010,Capital Goods
+BLD,25201030,2520,Consumer Durables & Apparel
+BLDR,20102010,2010,Capital Goods
+BLFS,35101020,3510,Health Care Equipment & Services
+BLK,40203010,4020,Diversified Financials
+BLKB,45103010,4510,Software & Services
+BLL,15103010,1510,Materials
+BLMN,25301040,2530,Consumer Services
+BLUE,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+BLX,40201040,4020,Diversified Financials
+BMCH,20107010,2010,Capital Goods
+BMI,45203010,4520,Technology Hardware & Equipment
+BMRC,40101015,4010,Banks
+BMRN,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+BMTC,40101015,4010,Banks
+BMY,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+BNED,25504040,2550,Retailing
+BNFT,45103010,4510,Software & Services
+BOCH,40101015,4010,Banks
+BOH,40101015,4010,Banks
+BOKF,40101015,4010,Banks
+BOMN,50201010,5020,Media & Entertainment
+BOOM,10101020,1010,Energy
+BOOT,25504010,2550,Retailing
+BOX,45103010,4510,Software & Services
+BPFH,40101015,4010,Banks
+BPMC,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+BPOP,40101015,4010,Banks
+BPRN,40101015,4010,Banks
+BPYU,60101070,6010,Real Estate
+BR,45102020,4510,Software & Services
+BRBR,30302010,3030,Household & Personal Products
+BRC,20201010,2020,Commercial & Professional Services
+BREW,30201010,3020,"Food, Beverage & Tobacco"
+BRG,60101060,6010,Real Estate
+BRID,30202030,3020,"Food, Beverage & Tobacco"
+BRK/B,40201030,4020,Diversified Financials
+BRKL,40101015,4010,Banks
+BRKR,35203010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+BRKS,45301010,4530,Semiconductors & Semiconductor Equipment
+BRO,40301010,4030,Insurance
+BRP,40301010,4030,Insurance
+BRT,60101060,6010,Real Estate
+BRX,60101070,6010,Real Estate
+BRY,10102020,1010,Energy
+BSET,25201020,2520,Consumer Durables & Apparel
+BSGM,35101010,3510,Health Care Equipment & Services
+BSIG,40203010,4020,Diversified Financials
+BSRR,40101015,4010,Banks
+BSTC,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+BSVN,40101015,4010,Banks
+BSX,35101010,3510,Health Care Equipment & Services
+BTAI,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+BTU,10102050,1010,Energy
+BURL,25504010,2550,Retailing
+BUSE,40101015,4010,Banks
+BV,20201050,2020,Commercial & Professional Services
+BWA,25101010,2510,Automobiles & Components
+BWB,40102010,4010,Banks
+BWFG,40101015,4010,Banks
+BWXT,20101010,2010,Capital Goods
+BXC,20107010,2010,Capital Goods
+BXG,25301020,2530,Consumer Services
+BXMT,40204010,4020,Diversified Financials
+BXP,60101040,6010,Real Estate
+BXRX,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+BXS,40101015,4010,Banks
+BY,40101015,4010,Banks
+BYD,25301010,2530,Consumer Services
+BYND,30202030,3020,"Food, Beverage & Tobacco"
+BYSI,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+BZH,25201030,2520,Consumer Durables & Apparel
+C,40101010,4010,Banks
+CABA,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+CABO,50201030,5020,Media & Entertainment
+CAC,40101015,4010,Banks
+CACC,40202010,4020,Diversified Financials
+CACI,45102010,4510,Software & Services
+CADE,40101015,4010,Banks
+CAG,30202030,3020,"Food, Beverage & Tobacco"
+CAH,35102010,3510,Health Care Equipment & Services
+CAI,20107010,2010,Capital Goods
+CAKE,25301040,2530,Consumer Services
+CAL,25504010,2550,Retailing
+CALA,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+CALM,30202030,3020,"Food, Beverage & Tobacco"
+CALX,45201020,4520,Technology Hardware & Equipment
+CAMP,45201020,4520,Technology Hardware & Equipment
+CAR,20304020,2030,Transportation
+CARA,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+CARE,40101015,4010,Banks
+CARG,50203010,5020,Media & Entertainment
+CARR,20102010,2010,Capital Goods
+CARS,50203010,5020,Media & Entertainment
+CASA,45201020,4520,Technology Hardware & Equipment
+CASH,40102010,4010,Banks
+CASI,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+CASS,45102020,4510,Software & Services
+CASY,30101030,3010,Food & Staples Retailing
+CAT,20106010,2010,Capital Goods
+CATC,40101015,4010,Banks
+CATM,45102020,4510,Software & Services
+CATO,25504010,2550,Retailing
+CATS,35102015,3510,Health Care Equipment & Services
+CATY,40101015,4010,Banks
+CB,40301040,4030,Insurance
+CBAN,40101015,4010,Banks
+CBAY,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+CBB,50101020,5010,Telecommunication Services
+CBL,60101070,6010,Real Estate
+CBMG,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+CBNK,40101015,4010,Banks
+CBOE,40203040,4020,Diversified Financials
+CBRE,60102040,6010,Real Estate
+CBRL,25301040,2530,Consumer Services
+CBSH,40101015,4010,Banks
+CBT,15101010,1510,Materials
+CBTX,40101015,4010,Banks
+CBU,40101015,4010,Banks
+CBZ,20202020,2020,Commercial & Professional Services
+CC,15101020,1510,Materials
+CCB,40101015,4010,Banks
+CCBG,40101015,4010,Banks
+CCF,15101050,1510,Materials
+CCI,60101080,6010,Real Estate
+CCK,15103010,1510,Materials
+CCL,25301020,2530,Consumer Services
+CCMP,45301010,4530,Semiconductors & Semiconductor Equipment
+CCNE,40101015,4010,Banks
+CCO,50201010,5020,Media & Entertainment
+CCOI,50101010,5010,Telecommunication Services
+CCRN,35102015,3510,Health Care Equipment & Services
+CCS,25201030,2520,Consumer Durables & Apparel
+CCXI,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+CDAY,45103010,4510,Software & Services
+CDE,15104030,1510,Materials
+CDEV,10102020,1010,Energy
+CDK,45103010,4510,Software & Services
+CDLX,50201010,5020,Media & Entertainment
+CDMO,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+CDNA,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+CDNS,45103010,4510,Software & Services
+CDR,60101070,6010,Real Estate
+CDW,45203030,4520,Technology Hardware & Equipment
+CDXC,35203010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+CDXS,35203010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+CDZI,55104010,5510,Utilities
+CE,15101050,1510,Materials
+CECE,20201050,2020,Commercial & Professional Services
+CEIX,10102050,1010,Energy
+CELC,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+CELH,30201030,3020,"Food, Beverage & Tobacco"
+CENT,30301010,3030,Household & Personal Products
+CENTA,30301010,3030,Household & Personal Products
+CENX,15104010,1510,Materials
+CERC,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+CERN,35103010,3510,Health Care Equipment & Services
+CERS,35101020,3510,Health Care Equipment & Services
+CETV,50201020,5020,Media & Entertainment
+CEVA,45301020,4530,Semiconductors & Semiconductor Equipment
+CF,15101030,1510,Materials
+CFB,40101015,4010,Banks
+CFFI,40101015,4010,Banks
+CFFN,40102010,4010,Banks
+CFG,40101015,4010,Banks
+CFMS,35101010,3510,Health Care Equipment & Services
+CFR,40101015,4010,Banks
+CFX,20106020,2010,Capital Goods
+CGNX,45203010,4520,Technology Hardware & Equipment
+CHAP,10102020,1010,Energy
+CHCO,40101015,4010,Banks
+CHCT,60101050,6010,Real Estate
+CHD,30301010,3030,Household & Personal Products
+CHDN,25301010,2530,Consumer Services
+CHE,35102015,3510,Health Care Equipment & Services
+CHEF,30101020,3010,Food & Staples Retailing
+CHGG,25302010,2530,Consumer Services
+CHH,25301020,2530,Consumer Services
+CHK,10102020,1010,Energy
+CHMA,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+CHMG,40101015,4010,Banks
+CHMI,40204010,4020,Diversified Financials
+CHNG,35103010,3510,Health Care Equipment & Services
+CHRA,20201050,2020,Commercial & Professional Services
+CHRS,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+CHRW,20301010,2030,Transportation
+CHS,25504010,2550,Retailing
+CHTR,50201030,5020,Media & Entertainment
+CHUY,25301040,2530,Consumer Services
+CI,35102015,3510,Health Care Equipment & Services
+CIA,40301020,4030,Insurance
+CIEN,45201020,4520,Technology Hardware & Equipment
+CIM,40204010,4020,Diversified Financials
+CINF,40301040,4030,Insurance
+CIO,60101040,6010,Real Estate
+CIR,20106020,2010,Capital Goods
+CIT,40101015,4010,Banks
+CIVB,40101015,4010,Banks
+CIX,20201060,2020,Commercial & Professional Services
+CKH,10101020,1010,Energy
+CKPT,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+CL,30301010,3030,Household & Personal Products
+CLAR,25202010,2520,Consumer Durables & Apparel
+CLBK,40102010,4010,Banks
+CLCT,25302020,2530,Consumer Services
+CLDR,45103010,4510,Software & Services
+CLDT,60101030,6010,Real Estate
+CLF,15104050,1510,Materials
+CLFD,45201020,4520,Technology Hardware & Equipment
+CLGX,20202020,2020,Commercial & Professional Services
+CLH,20201050,2020,Commercial & Professional Services
+CLI,60101040,6010,Real Estate
+CLNC,40204010,4020,Diversified Financials
+CLNE,10102030,1010,Energy
+CLNY,60101010,6010,Real Estate
+CLPR,60101060,6010,Real Estate
+CLR,10102020,1010,Energy
+CLVS,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+CLW,15105020,1510,Materials
+CLX,30301010,3030,Household & Personal Products
+CLXT,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+CMA,40101015,4010,Banks
+CMBM,45201020,4520,Technology Hardware & Equipment
+CMC,15104050,1510,Materials
+CMCO,20106020,2010,Capital Goods
+CMCSA,50201030,5020,Media & Entertainment
+CMCT,60101040,6010,Real Estate
+CMD,35101010,3510,Health Care Equipment & Services
+CME,40203040,4020,Diversified Financials
+CMG,25301040,2530,Consumer Services
+CMI,20106010,2010,Capital Goods
+CMLS,50201020,5020,Media & Entertainment
+CMO,40204010,4020,Diversified Financials
+CMP,15104020,1510,Materials
+CMPR,20201010,2020,Commercial & Professional Services
+CMRE,20303010,2030,Transportation
+CMRX,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+CMS,55103010,5510,Utilities
+CMTL,45201020,4520,Technology Hardware & Equipment
+CNA,40301040,4030,Insurance
+CNBKA,40101015,4010,Banks
+CNC,35102030,3510,Health Care Equipment & Services
+CNCE,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+CNDT,45102020,4510,Software & Services
+CNK,50202010,5020,Media & Entertainment
+CNMD,35101010,3510,Health Care Equipment & Services
+CNNE,40201030,4020,Diversified Financials
+CNO,40301020,4030,Insurance
+CNOB,40101015,4010,Banks
+CNP,55103010,5510,Utilities
+CNR,20102010,2010,Capital Goods
+CNS,40203010,4020,Diversified Financials
+CNSL,50101020,5010,Telecommunication Services
+CNST,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+CNTG,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+CNTY,25301010,2530,Consumer Services
+CNX,10102020,1010,Energy
+CNXN,45203030,4520,Technology Hardware & Equipment
+CODA,45203010,4520,Technology Hardware & Equipment
+COF,40202010,4020,Diversified Financials
+COG,10102020,1010,Energy
+COHR,45203010,4520,Technology Hardware & Equipment
+COHU,45301010,4530,Semiconductors & Semiconductor Equipment
+COKE,30201030,3020,"Food, Beverage & Tobacco"
+COLB,40101015,4010,Banks
+COLD,60101020,6010,Real Estate
+COLL,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+COLM,25203010,2520,Consumer Durables & Apparel
+COMM,45201020,4520,Technology Hardware & Equipment
+CONE,60101080,6010,Real Estate
+CONN,25504020,2550,Retailing
+COO,35101020,3510,Health Care Equipment & Services
+COOP,40102010,4010,Banks
+COP,10102020,1010,Energy
+COR,60101080,6010,Real Estate
+CORE,25501010,2550,Retailing
+CORR,60101080,6010,Real Estate
+CORT,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+COST,30101040,3010,Food & Staples Retailing
+COTY,30302010,3030,Household & Personal Products
+COUP,45103010,4510,Software & Services
+COWN,40203020,4020,Diversified Financials
+CPA,20302010,2030,Transportation
+CPB,30202030,3020,"Food, Beverage & Tobacco"
+CPE,10102020,1010,Energy
+CPF,40101015,4010,Banks
+CPK,55102010,5510,Utilities
+CPLG,60101030,6010,Real Estate
+CPRI,25203010,2520,Consumer Durables & Apparel
+CPRT,20201070,2020,Commercial & Professional Services
+CPRX,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+CPS,25101010,2510,Automobiles & Components
+CPSI,35103010,3510,Health Care Equipment & Services
+CPT,60101060,6010,Real Estate
+CR,20106020,2010,Capital Goods
+CRAI,20202020,2020,Commercial & Professional Services
+CRBP,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+CRC,10102020,1010,Energy
+CRD/A,40301010,4030,Insurance
+CREE,45301020,4530,Semiconductors & Semiconductor Equipment
+CRI,25203010,2520,Consumer Durables & Apparel
+CRK,10102020,1010,Energy
+CRL,35203010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+CRM,45103010,4510,Software & Services
+CRMD,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+CRMT,25504050,2550,Retailing
+CRNC,45103010,4510,Software & Services
+CRNX,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+CROX,25203020,2520,Consumer Durables & Apparel
+CRS,15104050,1510,Materials
+CRTX,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+CRUS,45301020,4530,Semiconductors & Semiconductor Equipment
+CRVL,35102015,3510,Health Care Equipment & Services
+CRY,35101010,3510,Health Care Equipment & Services
+CSCO,45201020,4520,Technology Hardware & Equipment
+CSFL,40101015,4010,Banks
+CSGP,20202020,2020,Commercial & Professional Services
+CSGS,45102020,4510,Software & Services
+CSII,35101010,3510,Health Care Equipment & Services
+CSL,20105010,2010,Capital Goods
+CSLT,35103010,3510,Health Care Equipment & Services
+CSOD,45103010,4510,Software & Services
+CSPR,25201020,2520,Consumer Durables & Apparel
+CSTE,20102010,2010,Capital Goods
+CSTL,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+CSTR,40101015,4010,Banks
+CSV,25302020,2530,Consumer Services
+CSWI,20102010,2010,Capital Goods
+CSX,20304010,2030,Transportation
+CTAS,20201070,2020,Commercial & Professional Services
+CTB,25101020,2510,Automobiles & Components
+CTBI,40101015,4010,Banks
+CTL,50101010,5010,Telecommunication Services
+CTLT,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+CTMX,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+CTO,60102010,6010,Real Estate
+CTRA,15104050,1510,Materials
+CTRC,25203010,2520,Consumer Durables & Apparel
+CTRE,60101050,6010,Real Estate
+CTRN,25504010,2550,Retailing
+CTS,45203020,4520,Technology Hardware & Equipment
+CTSH,45102010,4510,Software & Services
+CTSO,35101010,3510,Health Care Equipment & Services
+CTT,60101080,6010,Real Estate
+CTVA,15101030,1510,Materials
+CTXS,45103010,4510,Software & Services
+CUB,20101010,2010,Capital Goods
+CUBE,60101080,6010,Real Estate
+CUBI,40101015,4010,Banks
+CUE,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+CULP,25203030,2520,Consumer Durables & Apparel
+CURO,40202010,4020,Diversified Financials
+CUTR,35101010,3510,Health Care Equipment & Services
+CUZ,60101040,6010,Real Estate
+CVA,20201050,2020,Commercial & Professional Services
+CVBF,40101015,4010,Banks
+CVCO,25201030,2520,Consumer Durables & Apparel
+CVCY,40101015,4010,Banks
+CVET,35102010,3510,Health Care Equipment & Services
+CVGI,20106010,2010,Capital Goods
+CVGW,30202030,3020,"Food, Beverage & Tobacco"
+CVI,10102030,1010,Energy
+CVIA,10101020,1010,Energy
+CVLT,45103020,4510,Software & Services
+CVLY,40101015,4010,Banks
+CVM,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+CVNA,25504050,2550,Retailing
+CVS,35102015,3510,Health Care Equipment & Services
+CVTI,20304020,2030,Transportation
+CVX,10102010,1010,Energy
+CW,20101010,2010,Capital Goods
+CWCO,55104010,5510,Utilities
+CWEN,55105010,5510,Utilities
+CWEN/A,55105010,5510,Utilities
+CWH,25504050,2550,Retailing
+CWK,60102040,6010,Real Estate
+CWST,20201050,2020,Commercial & Professional Services
+CWT,55104010,5510,Utilities
+CXO,10102020,1010,Energy
+CXP,60101040,6010,Real Estate
+CXW,60101080,6010,Real Estate
+CYCN,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+CYH,35102020,3510,Health Care Equipment & Services
+CYRX,35101010,3510,Health Care Equipment & Services
+CYTK,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+CZNC,40101015,4010,Banks
+CZR,25301010,2530,Consumer Services
+D,55103010,5510,Utilities
+DAKT,45203010,4520,Technology Hardware & Equipment
+DAL,20302010,2030,Transportation
+DAN,25101010,2510,Automobiles & Components
+DAR,30202010,3020,"Food, Beverage & Tobacco"
+DBD,45202030,4520,Technology Hardware & Equipment
+DBI,25504010,2550,Retailing
+DBX,45103010,4510,Software & Services
+DCI,20106020,2010,Capital Goods
+DCO,20101010,2010,Capital Goods
+DCOM,40101015,4010,Banks
+DCPH,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+DD,15101050,1510,Materials
+DDD,45202030,4520,Technology Hardware & Equipment
+DDS,25503010,2550,Retailing
+DE,20106015,2010,Capital Goods
+DEA,60101040,6010,Real Estate
+DECK,25203020,2520,Consumer Durables & Apparel
+DEI,60101040,6010,Real Estate
+DELL,45202030,4520,Technology Hardware & Equipment
+DENN,25301040,2530,Consumer Services
+DFIN,40203040,4020,Diversified Financials
+DFS,40202010,4020,Diversified Financials
+DG,25503020,2550,Retailing
+DGICA,40301040,4030,Insurance
+DGII,45201020,4520,Technology Hardware & Equipment
+DGX,35102015,3510,Health Care Equipment & Services
+DHC,60101050,6010,Real Estate
+DHI,25201030,2520,Consumer Durables & Apparel
+DHIL,40203010,4020,Diversified Financials
+DHR,35101010,3510,Health Care Equipment & Services
+DHT,10102040,1010,Energy
+DHX,50203010,5020,Media & Entertainment
+DIN,25301040,2530,Consumer Services
+DIOD,45301020,4530,Semiconductors & Semiconductor Equipment
+DIS,50202010,5020,Media & Entertainment
+DISCA,50201020,5020,Media & Entertainment
+DISCK,50201020,5020,Media & Entertainment
+DISH,50201030,5020,Media & Entertainment
+DJCO,50201040,5020,Media & Entertainment
+DK,10102030,1010,Energy
+DKS,25504040,2550,Retailing
+DLA,25203010,2520,Consumer Durables & Apparel
+DLB,45203015,4520,Technology Hardware & Equipment
+DLR,60101080,6010,Real Estate
+DLTH,25502020,2550,Retailing
+DLTR,25503020,2550,Retailing
+DLX,20201010,2020,Commercial & Professional Services
+DMRC,45103010,4510,Software & Services
+DNKN,25301040,2530,Consumer Services
+DNLI,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+DNOW,20107010,2010,Capital Goods
+DNR,10102020,1010,Energy
+DOC,60101050,6010,Real Estate
+DOCU,45103010,4510,Software & Services
+DOMO,45103010,4510,Software & Services
+DOOR,20102010,2010,Capital Goods
+DORM,25101010,2510,Automobiles & Components
+DOV,20106020,2010,Capital Goods
+DOW,15101010,1510,Materials
+DOX,45102010,4510,Software & Services
+DPZ,25301040,2530,Consumer Services
+DRE,60101020,6010,Real Estate
+DRH,60101030,6010,Real Estate
+DRI,25301040,2530,Consumer Services
+DRNA,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+DRQ,10101020,1010,Energy
+DS,25301030,2530,Consumer Services
+DSKE,20304020,2030,Transportation
+DSPG,45301020,4530,Semiconductors & Semiconductor Equipment
+DSSI,10102040,1010,Energy
+DT,45103010,4510,Software & Services
+DTE,55103010,5510,Utilities
+DTIL,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+DUK,55101010,5510,Utilities
+DVA,35102015,3510,Health Care Equipment & Services
+DVAX,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+DVN,10102020,1010,Energy
+DX,40204010,4020,Diversified Financials
+DXC,45102010,4510,Software & Services
+DXCM,35101010,3510,Health Care Equipment & Services
+DXPE,20107010,2010,Capital Goods
+DY,20103010,2010,Capital Goods
+DZSI,45201020,4520,Technology Hardware & Equipment
+EA,50202020,5020,Media & Entertainment
+EAF,20104010,2010,Capital Goods
+EAT,25301040,2530,Consumer Services
+EB,50203010,5020,Media & Entertainment
+EBAY,25502020,2550,Retailing
+EBF,20201010,2020,Commercial & Professional Services
+EBIX,45103010,4510,Software & Services
+EBS,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+EBSB,40102010,4010,Banks
+EBTC,40101015,4010,Banks
+ECHO,20301010,2030,Transportation
+ECL,15101050,1510,Materials
+ECOL,20201050,2020,Commercial & Professional Services
+ECOM,45103010,4510,Software & Services
+ECOR,35101010,3510,Health Care Equipment & Services
+ECPG,40202010,4020,Diversified Financials
+ED,55103010,5510,Utilities
+EDIT,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+EE,55101010,5510,Utilities
+EEFT,45102020,4510,Software & Services
+EEX,50201010,5020,Media & Entertainment
+EFC,40204010,4020,Diversified Financials
+EFSC,40101015,4010,Banks
+EFX,20202020,2020,Commercial & Professional Services
+EGAN,45103010,4510,Software & Services
+EGBN,40101015,4010,Banks
+EGHT,45103010,4510,Software & Services
+EGLE,20303010,2030,Transportation
+EGOV,45102020,4510,Software & Services
+EGP,60101020,6010,Real Estate
+EGRX,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+EHC,35102020,3510,Health Care Equipment & Services
+EHTH,40301010,4030,Insurance
+EIDX,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+EIG,40301040,4030,Insurance
+EIGI,45102030,4510,Software & Services
+EIGR,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+EIX,55101010,5510,Utilities
+EL,30302010,3030,Household & Personal Products
+ELAN,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+ELF,30302010,3030,Household & Personal Products
+ELOX,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+ELS,60101060,6010,Real Estate
+ELVT,40202010,4020,Diversified Financials
+ELY,25202010,2520,Consumer Durables & Apparel
+EME,20103010,2010,Capital Goods
+EML,20106020,2010,Capital Goods
+EMN,15101020,1510,Materials
+EMR,20104010,2010,Capital Goods
+ENDP,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+ENOB,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+ENPH,45301010,4530,Semiconductors & Semiconductor Equipment
+ENR,30301010,3030,Household & Personal Products
+ENS,20104010,2010,Capital Goods
+ENSG,35102020,3510,Health Care Equipment & Services
+ENTA,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+ENTG,45301010,4530,Semiconductors & Semiconductor Equipment
+ENV,45103010,4510,Software & Services
+ENVA,40202010,4020,Diversified Financials
+ENZ,35102015,3510,Health Care Equipment & Services
+EOG,10102020,1010,Energy
+EOLS,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+EPAC,20106020,2010,Capital Goods
+EPAM,45102010,4510,Software & Services
+EPAY,45103010,4510,Software & Services
+EPC,30302010,3030,Household & Personal Products
+EPM,10102020,1010,Energy
+EPR,60101080,6010,Real Estate
+EPRT,60101010,6010,Real Estate
+EPZM,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+EQBK,40101015,4010,Banks
+EQC,60101040,6010,Real Estate
+EQH,40201020,4020,Diversified Financials
+EQIX,60101080,6010,Real Estate
+EQR,60101060,6010,Real Estate
+EQT,10102020,1010,Energy
+ERA,10101020,1010,Energy
+ERI,25301010,2530,Consumer Services
+ERIE,40301040,4030,Insurance
+ERII,20106020,2010,Capital Goods
+EROS,50202010,5020,Media & Entertainment
+ES,55101010,5510,Utilities
+ESCA,25202010,2520,Consumer Durables & Apparel
+ESE,20106020,2010,Capital Goods
+ESGR,40301050,4030,Insurance
+ESI,15101050,1510,Materials
+ESNT,40102010,4010,Banks
+ESPR,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+ESQ,40101015,4010,Banks
+ESRT,60101010,6010,Real Estate
+ESS,60101060,6010,Real Estate
+ESSA,40102010,4010,Banks
+ESTC,45103010,4510,Software & Services
+ESTE,10102020,1010,Energy
+ESXB,40101015,4010,Banks
+ETFC,40203020,4020,Diversified Financials
+ETH,25201020,2520,Consumer Durables & Apparel
+ETM,50201020,5020,Media & Entertainment
+ETN,20104010,2010,Capital Goods
+ETNB,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+ETR,55101010,5510,Utilities
+ETRN,10102040,1010,Energy
+ETSY,25502020,2550,Retailing
+EV,40203010,4020,Diversified Financials
+EVBG,45103010,4510,Software & Services
+EVBN,40101015,4010,Banks
+EVC,50201020,5020,Media & Entertainment
+EVER,50203010,5020,Media & Entertainment
+EVFM,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+EVH,35103010,3510,Health Care Equipment & Services
+EVI,20107010,2010,Capital Goods
+EVLO,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+EVOP,45102020,4510,Software & Services
+EVR,40203020,4020,Diversified Financials
+EVRG,55101010,5510,Utilities
+EVRI,25301010,2530,Consumer Services
+EVTC,45102020,4510,Software & Services
+EW,35101010,3510,Health Care Equipment & Services
+EWBC,40101015,4010,Banks
+EXAS,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+EXC,55101010,5510,Utilities
+EXEL,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+EXLS,45102020,4510,Software & Services
+EXP,15102010,1510,Materials
+EXPD,20301010,2030,Transportation
+EXPE,25502020,2550,Retailing
+EXPI,60102040,6010,Real Estate
+EXPO,20202020,2020,Commercial & Professional Services
+EXPR,25504010,2550,Retailing
+EXR,60101080,6010,Real Estate
+EXTN,10101020,1010,Energy
+EXTR,45201020,4520,Technology Hardware & Equipment
+EYE,25504040,2550,Retailing
+EYPT,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+EZPW,40202010,4020,Diversified Financials
+F,25102010,2510,Automobiles & Components
+FAF,40301040,4030,Insurance
+FANG,10102020,1010,Energy
+FARM,30202030,3020,"Food, Beverage & Tobacco"
+FARO,45203010,4520,Technology Hardware & Equipment
+FAST,20107010,2010,Capital Goods
+FATE,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+FB,50203010,5020,Media & Entertainment
+FBC,40102010,4010,Banks
+FBHS,20102010,2010,Capital Goods
+FBIZ,40101015,4010,Banks
+FBK,40101015,4010,Banks
+FBM,20107010,2010,Capital Goods
+FBMS,40101015,4010,Banks
+FBNC,40101015,4010,Banks
+FBP,40101015,4010,Banks
+FC,20202020,2020,Commercial & Professional Services
+FCAP,40101015,4010,Banks
+FCBC,40101015,4010,Banks
+FCBP,40101015,4010,Banks
+FCCY,40101015,4010,Banks
+FCF,40101015,4010,Banks
+FCFS,40202010,4020,Diversified Financials
+FCN,20202020,2020,Commercial & Professional Services
+FCNCA,40101015,4010,Banks
+FCPT,60101080,6010,Real Estate
+FCX,15104025,1510,Materials
+FDBC,40101015,4010,Banks
+FDEF,40102010,4010,Banks
+FDP,30202010,3020,"Food, Beverage & Tobacco"
+FDS,40203040,4020,Diversified Financials
+FDX,20301010,2030,Transportation
+FE,55101010,5510,Utilities
+FELE,20106020,2010,Capital Goods
+FET,10101020,1010,Energy
+FEYE,45103020,4510,Software & Services
+FF,15101050,1510,Materials
+FFBC,40101015,4010,Banks
+FFG,40301020,4030,Insurance
+FFIC,40101015,4010,Banks
+FFIN,40101015,4010,Banks
+FFIV,45201020,4520,Technology Hardware & Equipment
+FFNW,40101015,4010,Banks
+FFWM,40101015,4010,Banks
+FG,40201020,4020,Diversified Financials
+FGBI,40101015,4010,Banks
+FGEN,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+FHB,40101015,4010,Banks
+FHI,40203010,4020,Diversified Financials
+FHN,40101015,4010,Banks
+FI,10101020,1010,Energy
+FIBK,40101015,4010,Banks
+FICO,45103010,4510,Software & Services
+FIS,45102020,4510,Software & Services
+FISI,40101015,4010,Banks
+FISV,45102020,4510,Software & Services
+FIT,45203010,4520,Technology Hardware & Equipment
+FITB,40101015,4010,Banks
+FIVE,25504040,2550,Retailing
+FIVN,45103010,4510,Software & Services
+FIX,20103010,2010,Capital Goods
+FIXX,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+FIZZ,30201030,3020,"Food, Beverage & Tobacco"
+FL,25504010,2550,Retailing
+FLDM,35203010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+FLIC,40101015,4010,Banks
+FLIR,45203010,4520,Technology Hardware & Equipment
+FLMN,10102020,1010,Energy
+FLNT,50201010,5020,Media & Entertainment
+FLO,30202030,3020,"Food, Beverage & Tobacco"
+FLOW,20106020,2010,Capital Goods
+FLR,20103010,2010,Capital Goods
+FLS,20106020,2010,Capital Goods
+FLT,45102020,4510,Software & Services
+FLWS,25502020,2550,Retailing
+FLXN,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+FLXS,25201020,2520,Consumer Durables & Apparel
+FMAO,40101015,4010,Banks
+FMBH,40101015,4010,Banks
+FMBI,40101015,4010,Banks
+FMC,15101030,1510,Materials
+FMNB,40101015,4010,Banks
+FN,45203020,4520,Technology Hardware & Equipment
+FNB,40101015,4010,Banks
+FNCB,40101015,4010,Banks
+FND,25504030,2550,Retailing
+FNF,40301040,4030,Insurance
+FNHC,40301040,4030,Insurance
+FNKO,25501010,2550,Retailing
+FNLC,40101015,4010,Banks
+FNWB,40101015,4010,Banks
+FOCS,40203010,4020,Diversified Financials
+FOE,15101050,1510,Materials
+FOLD,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+FOR,60102030,6010,Real Estate
+FORM,45301010,4530,Semiconductors & Semiconductor Equipment
+FORR,20202020,2020,Commercial & Professional Services
+FOSL,25203010,2520,Consumer Durables & Apparel
+FOX,50201020,5020,Media & Entertainment
+FOXA,50201020,5020,Media & Entertainment
+FOXF,25101010,2510,Automobiles & Components
+FPI,60101080,6010,Real Estate
+FPRX,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+FR,60101020,6010,Real Estate
+FRAF,40101015,4010,Banks
+FRBA,40101015,4010,Banks
+FRBK,40101015,4010,Banks
+FRC,40101015,4010,Banks
+FREQ,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+FRGI,25301040,2530,Consumer Services
+FRME,40101015,4010,Banks
+FRPH,60102020,6010,Real Estate
+FRPT,30202030,3020,"Food, Beverage & Tobacco"
+FRT,60101070,6010,Real Estate
+FRTA,15102010,1510,Materials
+FSB,40101015,4010,Banks
+FSBW,40102010,4010,Banks
+FSCT,45103020,4510,Software & Services
+FSLR,45301020,4530,Semiconductors & Semiconductor Equipment
+FSP,60101040,6010,Real Estate
+FSS,20106010,2010,Capital Goods
+FSTR,20106020,2010,Capital Goods
+FTDR,25302020,2530,Consumer Services
+FTK,15101050,1510,Materials
+FTNT,45103020,4510,Software & Services
+FTSI,10101020,1010,Energy
+FTV,20106020,2010,Capital Goods
+FUL,15101050,1510,Materials
+FULC,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+FULT,40101015,4010,Banks
+FVCB,40101015,4010,Banks
+FWONA,50202010,5020,Media & Entertainment
+FWONK,50202010,5020,Media & Entertainment
+FWRD,20301010,2030,Transportation
+G,45102020,4510,Software & Services
+GABC,40101015,4010,Banks
+GAIA,50202010,5020,Media & Entertainment
+GALT,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+GATX,20107010,2010,Capital Goods
+GBCI,40101015,4010,Banks
+GBL,40203010,4020,Diversified Financials
+GBLI,40301040,4030,Insurance
+GBT,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+GBX,20106010,2010,Capital Goods
+GCAP,40203020,4020,Diversified Financials
+GCBC,40102010,4010,Banks
+GCI,50201040,5020,Media & Entertainment
+GCO,25504010,2550,Retailing
+GCP,15101050,1510,Materials
+GD,20101010,2010,Capital Goods
+GDDY,45102030,4510,Software & Services
+GDEN,25301010,2530,Consumer Services
+GDOT,40202010,4020,Diversified Financials
+GDP,10102020,1010,Energy
+GE,20105010,2010,Capital Goods
+GEF,15103010,1510,Materials
+GEF/B,15103010,1510,Materials
+GEN,35102020,3510,Health Care Equipment & Services
+GENC,20106020,2010,Capital Goods
+GEO,60101080,6010,Real Estate
+GEOS,10101020,1010,Energy
+GERN,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+GES,25504010,2550,Retailing
+GFF,20102010,2010,Capital Goods
+GFN,20107010,2010,Capital Goods
+GGG,20106020,2010,Capital Goods
+GH,35102015,3510,Health Care Equipment & Services
+GHC,25302010,2530,Consumer Services
+GHL,40203020,4020,Diversified Financials
+GHM,20106020,2010,Capital Goods
+GIII,25203010,2520,Consumer Durables & Apparel
+GILD,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+GIS,30202030,3020,"Food, Beverage & Tobacco"
+GKOS,35101010,3510,Health Care Equipment & Services
+GL,40301020,4030,Insurance
+GLDD,20103010,2010,Capital Goods
+GLIBA,50101010,5010,Telecommunication Services
+GLNG,10102040,1010,Energy
+GLOG,10102040,1010,Energy
+GLPI,60101080,6010,Real Estate
+GLRE,40301050,4030,Insurance
+GLT,15105020,1510,Materials
+GLUU,50202020,5020,Media & Entertainment
+GLW,45203015,4520,Technology Hardware & Equipment
+GLYC,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+GM,25102010,2510,Automobiles & Components
+GME,25504020,2550,Retailing
+GMED,35101010,3510,Health Care Equipment & Services
+GMRE,60101050,6010,Real Estate
+GMS,20107010,2010,Capital Goods
+GNC,25504040,2550,Retailing
+GNE,55101010,5510,Utilities
+GNK,20303010,2030,Transportation
+GNL,60101010,6010,Real Estate
+GNLN,25501010,2550,Retailing
+GNMK,35101010,3510,Health Care Equipment & Services
+GNRC,20104010,2010,Capital Goods
+GNTX,25101010,2510,Automobiles & Components
+GNTY,40101015,4010,Banks
+GNW,40301020,4030,Insurance
+GO,30101030,3010,Food & Staples Retailing
+GOGO,50102010,5010,Telecommunication Services
+GOLF,25202010,2520,Consumer Durables & Apparel
+GOOD,60101010,6010,Real Estate
+GOOG,50203010,5020,Media & Entertainment
+GOOGL,50203010,5020,Media & Entertainment
+GORO,15104030,1510,Materials
+GOSS,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+GPC,25501010,2550,Retailing
+GPI,25504050,2550,Retailing
+GPK,15103020,1510,Materials
+GPMT,40204010,4020,Diversified Financials
+GPN,45102020,4510,Software & Services
+GPOR,10102020,1010,Energy
+GPRE,10102030,1010,Energy
+GPRO,25201010,2520,Consumer Durables & Apparel
+GPS,25504010,2550,Retailing
+GPX,20202010,2020,Commercial & Professional Services
+GRA,15101050,1510,Materials
+GRBK,25201030,2520,Consumer Durables & Apparel
+GRC,20106020,2010,Capital Goods
+GRIF,60102020,6010,Real Estate
+GRMN,25201010,2520,Consumer Durables & Apparel
+GRPN,25502020,2550,Retailing
+GRTS,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+GRTX,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+GRUB,25502020,2550,Retailing
+GS,40203020,4020,Diversified Financials
+GSBC,40101015,4010,Banks
+GSHD,40301010,4030,Insurance
+GSIT,45301020,4530,Semiconductors & Semiconductor Equipment
+GT,25101020,2510,Automobiles & Components
+GTES,20106020,2010,Capital Goods
+GTHX,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+GTLS,20106020,2010,Capital Goods
+GTN,50201020,5020,Media & Entertainment
+GTS,35102030,3510,Health Care Equipment & Services
+GTT,45102030,4510,Software & Services
+GTY,60101070,6010,Real Estate
+GTYH,45103010,4510,Software & Services
+GVA,20103010,2010,Capital Goods
+GWB,40101015,4010,Banks
+GWGH,40201040,4020,Diversified Financials
+GWRE,45103010,4510,Software & Services
+GWRS,55104010,5510,Utilities
+GWW,20107010,2010,Capital Goods
+H,25301020,2530,Consumer Services
+HA,20302010,2030,Transportation
+HAE,35101020,3510,Health Care Equipment & Services
+HAFC,40101015,4010,Banks
+HAIN,30202030,3020,"Food, Beverage & Tobacco"
+HAL,10101020,1010,Energy
+HALL,40301040,4030,Insurance
+HALO,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+HARP,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+HAS,25202010,2520,Consumer Durables & Apparel
+HASI,60101020,6010,Real Estate
+HAYN,15104050,1510,Materials
+HBAN,40101015,4010,Banks
+HBB,25201040,2520,Consumer Durables & Apparel
+HBCP,40102010,4010,Banks
+HBI,25203010,2520,Consumer Durables & Apparel
+HBMD,40101015,4010,Banks
+HBNC,40101015,4010,Banks
+HBT,40101015,4010,Banks
+HCA,35102020,3510,Health Care Equipment & Services
+HCAT,35103010,3510,Health Care Equipment & Services
+HCC,15104050,1510,Materials
+HCCI,20201050,2020,Commercial & Professional Services
+HCI,40301040,4030,Insurance
+HCKT,45102010,4510,Software & Services
+HCSG,20201070,2020,Commercial & Professional Services
+HD,25504030,2550,Retailing
+HDS,20107010,2010,Capital Goods
+HE,55101010,5510,Utilities
+HEES,20107010,2010,Capital Goods
+HEI,20101010,2010,Capital Goods
+HEI/A,20101010,2010,Capital Goods
+HELE,25201040,2520,Consumer Durables & Apparel
+HES,10102020,1010,Energy
+HFC,10102030,1010,Energy
+HFFG,30101020,3010,Food & Staples Retailing
+HFWA,40101015,4010,Banks
+HGV,25301020,2530,Consumer Services
+HHC,60102030,6010,Real Estate
+HI,20106020,2010,Capital Goods
+HIBB,25504040,2550,Retailing
+HIFS,40102010,4010,Banks
+HIG,40301030,4030,Insurance
+HII,20101010,2010,Capital Goods
+HIW,60101040,6010,Real Estate
+HL,15104045,1510,Materials
+HLF,30302010,3030,Household & Personal Products
+HLI,40203020,4020,Diversified Financials
+HLIO,20106020,2010,Capital Goods
+HLIT,45201020,4520,Technology Hardware & Equipment
+HLNE,40203010,4020,Diversified Financials
+HLT,25301020,2530,Consumer Services
+HLX,10101020,1010,Energy
+HMHC,25302010,2530,Consumer Services
+HMN,40301030,4030,Insurance
+HMST,40102010,4010,Banks
+HMSY,35103010,3510,Health Care Equipment & Services
+HMTV,50201020,5020,Media & Entertainment
+HNGR,35102020,3510,Health Care Equipment & Services
+HNI,20201060,2020,Commercial & Professional Services
+HNRG,10102050,1010,Energy
+HOFT,25201020,2520,Consumer Durables & Apparel
+HOG,25102020,2510,Automobiles & Components
+HOLX,35101010,3510,Health Care Equipment & Services
+HOMB,40101015,4010,Banks
+HOME,25504060,2550,Retailing
+HON,20105010,2010,Capital Goods
+HONE,40101015,4010,Banks
+HOOK,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+HOPE,40101015,4010,Banks
+HP,10101010,1010,Energy
+HPE,45202030,4520,Technology Hardware & Equipment
+HPP,60101040,6010,Real Estate
+HPQ,45202030,4520,Technology Hardware & Equipment
+HPR,10102020,1010,Energy
+HQY,35102030,3510,Health Care Equipment & Services
+HR,60101050,6010,Real Estate
+HRB,25302020,2530,Consumer Services
+HRC,35101010,3510,Health Care Equipment & Services
+HRI,20107010,2010,Capital Goods
+HRL,30202030,3020,"Food, Beverage & Tobacco"
+HRTG,40301040,4030,Insurance
+HRTX,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+HSC,20201050,2020,Commercial & Professional Services
+HSIC,35102010,3510,Health Care Equipment & Services
+HSII,20202010,2020,Commercial & Professional Services
+HSKA,35101010,3510,Health Care Equipment & Services
+HST,60101030,6010,Real Estate
+HSTM,35103010,3510,Health Care Equipment & Services
+HSY,30202030,3020,"Food, Beverage & Tobacco"
+HT,60101030,6010,Real Estate
+HTA,60101050,6010,Real Estate
+HTBI,40101015,4010,Banks
+HTBK,40101015,4010,Banks
+HTH,40101015,4010,Banks
+HTLD,20304020,2030,Transportation
+HTLF,40101015,4010,Banks
+HTZ,20304020,2030,Transportation
+HUBB,20104010,2010,Capital Goods
+HUBG,20301010,2030,Transportation
+HUBS,45103010,4510,Software & Services
+HUD,25504040,2550,Retailing
+HUM,35102030,3510,Health Care Equipment & Services
+HUN,15101020,1510,Materials
+HURC,20106020,2010,Capital Goods
+HURN,20202020,2020,Commercial & Professional Services
+HVT,25504060,2550,Retailing
+HWBK,40101015,4010,Banks
+HWC,40101015,4010,Banks
+HWKN,15101010,1510,Materials
+HWM,20101010,2010,Capital Goods
+HXL,20101010,2010,Capital Goods
+HY,20106020,2010,Capital Goods
+HZNP,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+HZO,25504040,2550,Retailing
+IAA,20201070,2020,Commercial & Professional Services
+IAC,50203010,5020,Media & Entertainment
+IART,35101010,3510,Health Care Equipment & Services
+IBCP,40101015,4010,Banks
+IBKC,40101015,4010,Banks
+IBKR,40203020,4020,Diversified Financials
+IBM,45102010,4510,Software & Services
+IBOC,40101015,4010,Banks
+IBP,25201030,2520,Consumer Durables & Apparel
+IBTX,40101015,4010,Banks
+ICD,10101010,1010,Energy
+ICE,40203040,4020,Diversified Financials
+ICFI,20202020,2020,Commercial & Professional Services
+ICHR,45301010,4530,Semiconductors & Semiconductor Equipment
+ICPT,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+ICUI,35101020,3510,Health Care Equipment & Services
+IDA,55101010,5510,Utilities
+IDCC,45201020,4520,Technology Hardware & Equipment
+IDEX,45103010,4510,Software & Services
+IDT,50101020,5010,Telecommunication Services
+IDXX,35101010,3510,Health Care Equipment & Services
+IESC,20103010,2010,Capital Goods
+IEX,20106020,2010,Capital Goods
+IFF,15101050,1510,Materials
+IGMS,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+IGT,25301010,2530,Consumer Services
+IHC,40301020,4030,Insurance
+III,45102010,4510,Software & Services
+IIIN,20102010,2010,Capital Goods
+IIIV,45102020,4510,Software & Services
+IIN,35101010,3510,Health Care Equipment & Services
+IIPR,60101020,6010,Real Estate
+IIVI,45203015,4520,Technology Hardware & Equipment
+ILMN,35203010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+ILPT,60101020,6010,Real Estate
+IMAX,50202010,5020,Media & Entertainment
+IMGN,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+IMKTA,30101030,3010,Food & Staples Retailing
+IMMR,45202030,4520,Technology Hardware & Equipment
+IMMU,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+IMXI,45102020,4510,Software & Services
+INBK,40101015,4010,Banks
+INCY,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+INDB,40101015,4010,Banks
+INFN,45201020,4520,Technology Hardware & Equipment
+INFO,20202020,2020,Commercial & Professional Services
+INGN,35101010,3510,Health Care Equipment & Services
+INGR,30202010,3020,"Food, Beverage & Tobacco"
+INN,60101030,6010,Real Estate
+INO,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+INOV,35103010,3510,Health Care Equipment & Services
+INS,45103010,4510,Software & Services
+INSE,25301010,2530,Consumer Services
+INSG,45201020,4520,Technology Hardware & Equipment
+INSM,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+INSP,35103010,3510,Health Care Equipment & Services
+INSW,10102040,1010,Energy
+INT,10102030,1010,Energy
+INTC,45301020,4530,Semiconductors & Semiconductor Equipment
+INTL,40203020,4020,Diversified Financials
+INTU,45103010,4510,Software & Services
+INVA,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+INVH,60101060,6010,Real Estate
+INWK,20202020,2020,Commercial & Professional Services
+IONS,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+IOSP,15101050,1510,Materials
+IOTS,45301020,4530,Semiconductors & Semiconductor Equipment
+IOVA,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+IP,15103020,1510,Materials
+IPAR,30302010,3030,Household & Personal Products
+IPG,50201010,5020,Media & Entertainment
+IPGP,45203020,4520,Technology Hardware & Equipment
+IPHI,45301020,4530,Semiconductors & Semiconductor Equipment
+IPI,15101030,1510,Materials
+IQV,35203010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+IR,20106020,2010,Capital Goods
+IRBT,25201040,2520,Consumer Durables & Apparel
+IRDM,50101010,5010,Telecommunication Services
+IRET,60101060,6010,Real Estate
+IRM,60101080,6010,Real Estate
+IRMD,35101010,3510,Health Care Equipment & Services
+IRT,60101060,6010,Real Estate
+IRTC,35101010,3510,Health Care Equipment & Services
+IRWD,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+ISBC,40101015,4010,Banks
+ISRG,35101010,3510,Health Care Equipment & Services
+ISTR,40101015,4010,Banks
+IT,45102010,4510,Software & Services
+ITCI,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+ITGR,35101010,3510,Health Care Equipment & Services
+ITI,45203010,4520,Technology Hardware & Equipment
+ITIC,40301040,4030,Insurance
+ITRI,45203010,4520,Technology Hardware & Equipment
+ITT,20106020,2010,Capital Goods
+ITW,20106020,2010,Capital Goods
+IVC,35101010,3510,Health Care Equipment & Services
+IVR,40204010,4020,Diversified Financials
+IVZ,40203010,4020,Diversified Financials
+J,20103010,2010,Capital Goods
+JACK,25301040,2530,Consumer Services
+JAX,25301040,2530,Consumer Services
+JAZZ,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+JBGS,60101040,6010,Real Estate
+JBHT,20304020,2030,Transportation
+JBL,45203020,4520,Technology Hardware & Equipment
+JBLU,20302010,2030,Transportation
+JBSS,30202030,3020,"Food, Beverage & Tobacco"
+JBT,20106020,2010,Capital Goods
+JCAP,60101080,6010,Real Estate
+JCI,20102010,2010,Capital Goods
+JCOM,45103010,4510,Software & Services
+JEF,40201030,4020,Diversified Financials
+JELD,20102010,2010,Capital Goods
+JHG,40203010,4020,Diversified Financials
+JILL,25504010,2550,Retailing
+JJSF,30202030,3020,"Food, Beverage & Tobacco"
+JKHY,45102020,4510,Software & Services
+JLL,60102040,6010,Real Estate
+JNCE,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+JNJ,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+JNPR,45201020,4520,Technology Hardware & Equipment
+JOE,60102010,6010,Real Estate
+JOUT,25202010,2520,Consumer Durables & Apparel
+JPM,40101010,4010,Banks
+JRVR,40301040,4030,Insurance
+JW/A,50201040,5020,Media & Entertainment
+JWN,25503010,2550,Retailing
+JYNT,35102020,3510,Health Care Equipment & Services
+K,30202030,3020,"Food, Beverage & Tobacco"
+KAI,20106020,2010,Capital Goods
+KALA,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+KALU,15104010,1510,Materials
+KALV,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+KAMN,20107010,2010,Capital Goods
+KAR,20201070,2020,Commercial & Professional Services
+KBAL,20201060,2020,Commercial & Professional Services
+KBH,25201030,2520,Consumer Durables & Apparel
+KBR,45102010,4510,Software & Services
+KDMN,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+KDP,30201030,3020,"Food, Beverage & Tobacco"
+KE,45203020,4520,Technology Hardware & Equipment
+KELYA,20202010,2020,Commercial & Professional Services
+KEM,45203020,4520,Technology Hardware & Equipment
+KEX,20303010,2030,Transportation
+KEY,40101015,4010,Banks
+KEYS,45203010,4520,Technology Hardware & Equipment
+KFRC,20202010,2020,Commercial & Professional Services
+KFY,20202010,2020,Commercial & Professional Services
+KHC,30202030,3020,"Food, Beverage & Tobacco"
+KIDS,35101020,3510,Health Care Equipment & Services
+KIM,60101070,6010,Real Estate
+KIN,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+KLAC,45301010,4530,Semiconductors & Semiconductor Equipment
+KLDO,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+KLXE,10101020,1010,Energy
+KMB,30301010,3030,Household & Personal Products
+KMI,10102040,1010,Energy
+KMPR,40301040,4030,Insurance
+KMT,20106020,2010,Capital Goods
+KMX,25504050,2550,Retailing
+KN,45203015,4520,Technology Hardware & Equipment
+KNL,20201060,2020,Commercial & Professional Services
+KNSA,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+KNSL,40301040,4030,Insurance
+KNX,20304020,2030,Transportation
+KO,30201030,3020,"Food, Beverage & Tobacco"
+KOD,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+KOP,15101010,1510,Materials
+KOS,10102020,1010,Energy
+KPTI,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+KR,30101030,3010,Food & Staples Retailing
+KRA,15101050,1510,Materials
+KRC,60101040,6010,Real Estate
+KREF,40204010,4020,Diversified Financials
+KRG,60101070,6010,Real Estate
+KRNY,40102010,4010,Banks
+KRO,15101010,1510,Materials
+KRTX,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+KRUS,25301040,2530,Consumer Services
+KRYS,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+KSS,25503010,2550,Retailing
+KSU,20304010,2030,Transportation
+KTB,25203010,2520,Consumer Durables & Apparel
+KTOS,20101010,2010,Capital Goods
+KURA,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+KVHI,45201020,4520,Technology Hardware & Equipment
+KW,60102020,6010,Real Estate
+KWR,15101050,1510,Materials
+KZR,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+L,40301040,4030,Insurance
+LAD,25504050,2550,Retailing
+LADR,40204010,4020,Diversified Financials
+LAMR,60101080,6010,Real Estate
+LANC,30202030,3020,"Food, Beverage & Tobacco"
+LAND,60101080,6010,Real Estate
+LASR,45203010,4520,Technology Hardware & Equipment
+LAUR,25302010,2530,Consumer Services
+LAWS,20107010,2010,Capital Goods
+LAZ,40203020,4020,Diversified Financials
+LB,25504010,2550,Retailing
+LBAI,40101015,4010,Banks
+LBC,40102010,4010,Banks
+LBRDA,50201030,5020,Media & Entertainment
+LBRDK,50201030,5020,Media & Entertainment
+LBRT,10101020,1010,Energy
+LC,40202010,4020,Diversified Financials
+LCI,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+LCII,25101010,2510,Automobiles & Components
+LCNB,40101015,4010,Banks
+LCTX,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+LCUT,25201050,2520,Consumer Durables & Apparel
+LDL,20106020,2010,Capital Goods
+LDOS,45102010,4510,Software & Services
+LE,25502020,2550,Retailing
+LEA,25101010,2510,Automobiles & Components
+LEAF,25502020,2550,Retailing
+LECO,20106020,2010,Capital Goods
+LEE,50201040,5020,Media & Entertainment
+LEG,25201020,2520,Consumer Durables & Apparel
+LEGH,25201030,2520,Consumer Durables & Apparel
+LEN,25201030,2520,Consumer Durables & Apparel
+LEN/B,25201030,2520,Consumer Durables & Apparel
+LEVL,40101015,4010,Banks
+LFUS,45203015,4520,Technology Hardware & Equipment
+LFVN,30302010,3030,Household & Personal Products
+LGF/A,50202010,5020,Media & Entertainment
+LGF/B,50202010,5020,Media & Entertainment
+LGIH,25201030,2520,Consumer Durables & Apparel
+LGND,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+LH,35102015,3510,Health Care Equipment & Services
+LHCG,35102015,3510,Health Care Equipment & Services
+LHX,20101010,2010,Capital Goods
+LII,20102010,2010,Capital Goods
+LILA,50201030,5020,Media & Entertainment
+LILAK,50201030,5020,Media & Entertainment
+LIN,15101040,1510,Materials
+LIND,25301020,2530,Consumer Services
+LITE,45201020,4520,Technology Hardware & Equipment
+LIVN,35101010,3510,Health Care Equipment & Services
+LIVX,50202010,5020,Media & Entertainment
+LJPC,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+LKFN,40101015,4010,Banks
+LKQ,25501010,2550,Retailing
+LL,25504030,2550,Retailing
+LLNW,45102030,4510,Software & Services
+LLY,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+LM,40203010,4020,Diversified Financials
+LMAT,35101010,3510,Health Care Equipment & Services
+LMNR,30202010,3020,"Food, Beverage & Tobacco"
+LMNX,35203010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+LMT,20101010,2010,Capital Goods
+LNC,40301020,4030,Insurance
+LNDC,30202030,3020,"Food, Beverage & Tobacco"
+LNG,10102040,1010,Energy
+LNN,20106015,2010,Capital Goods
+LNT,55101010,5510,Utilities
+LNTH,35101020,3510,Health Care Equipment & Services
+LOB,40101015,4010,Banks
+LOCO,25301040,2530,Consumer Services
+LOGC,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+LOGM,45103010,4510,Software & Services
+LOPE,25302010,2530,Consumer Services
+LORL,50201030,5020,Media & Entertainment
+LOVE,25201020,2520,Consumer Durables & Apparel
+LOW,25504030,2550,Retailing
+LPG,10102040,1010,Energy
+LPI,10102020,1010,Energy
+LPLA,40203020,4020,Diversified Financials
+LPSN,45103010,4510,Software & Services
+LPX,15105010,1510,Materials
+LQDA,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+LQDT,25502020,2550,Retailing
+LRCX,45301010,4530,Semiconductors & Semiconductor Equipment
+LRN,25302010,2530,Consumer Services
+LSCC,45301020,4530,Semiconductors & Semiconductor Equipment
+LSI,60101080,6010,Real Estate
+LSTR,20304020,2030,Transportation
+LSXMA,50201030,5020,Media & Entertainment
+LSXMK,50201030,5020,Media & Entertainment
+LTC,60101050,6010,Real Estate
+LTHM,15101050,1510,Materials
+LTRPA,50203010,5020,Media & Entertainment
+LULU,25203010,2520,Consumer Durables & Apparel
+LUV,20302010,2030,Transportation
+LVGO,35103010,3510,Health Care Equipment & Services
+LVS,25301010,2530,Consumer Services
+LW,30202030,3020,"Food, Beverage & Tobacco"
+LXFR,20106020,2010,Capital Goods
+LXP,60101020,6010,Real Estate
+LXRX,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+LXU,15101020,1510,Materials
+LYB,15101010,1510,Materials
+LYFT,20304020,2030,Transportation
+LYV,50202010,5020,Media & Entertainment
+LZB,25201020,2520,Consumer Durables & Apparel
+M,25503010,2550,Retailing
+MA,45102020,4510,Software & Services
+MAA,60101060,6010,Real Estate
+MAC,60101070,6010,Real Estate
+MAN,20202010,2020,Commercial & Professional Services
+MANH,45103010,4510,Software & Services
+MANT,45102010,4510,Software & Services
+MAR,25301020,2530,Consumer Services
+MAS,20102010,2010,Capital Goods
+MASI,35101010,3510,Health Care Equipment & Services
+MAT,25202010,2520,Consumer Durables & Apparel
+MATW,20201070,2020,Commercial & Professional Services
+MATX,20303010,2030,Transportation
+MAXR,20101010,2010,Capital Goods
+MBI,40301040,4030,Insurance
+MBII,15101030,1510,Materials
+MBIN,40102010,4010,Banks
+MBIO,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+MBUU,25202010,2520,Consumer Durables & Apparel
+MBWM,40101015,4010,Banks
+MC,40203020,4020,Diversified Financials
+MCB,40101015,4010,Banks
+MCBC,40101015,4010,Banks
+MCBS,40101015,4010,Banks
+MCD,25301040,2530,Consumer Services
+MCFT,25202010,2520,Consumer Durables & Apparel
+MCHP,45301020,4530,Semiconductors & Semiconductor Equipment
+MCHX,50201010,5020,Media & Entertainment
+MCK,35102010,3510,Health Care Equipment & Services
+MCO,40203040,4020,Diversified Financials
+MCRB,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+MCRI,25301010,2530,Consumer Services
+MCS,50202010,5020,Media & Entertainment
+MCY,40301040,4030,Insurance
+MD,35102015,3510,Health Care Equipment & Services
+MDB,45102030,4510,Software & Services
+MDC,25201030,2520,Consumer Durables & Apparel
+MDCA,50201010,5020,Media & Entertainment
+MDGL,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+MDLA,45103010,4510,Software & Services
+MDLZ,30202030,3020,"Food, Beverage & Tobacco"
+MDP,50201040,5020,Media & Entertainment
+MDRX,35103010,3510,Health Care Equipment & Services
+MDT,35101010,3510,Health Care Equipment & Services
+MDU,55103010,5510,Utilities
+MEC,20106020,2010,Capital Goods
+MED,30302010,3030,Household & Personal Products
+MEDP,35203010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+MEET,50203010,5020,Media & Entertainment
+MEI,45203020,4520,Technology Hardware & Equipment
+MEIP,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+MESA,20302010,2030,Transportation
+MET,40301020,4030,Insurance
+METC,15104050,1510,Materials
+MFA,40204010,4020,Diversified Financials
+MFIN,40202010,4020,Diversified Financials
+MFNC,40101015,4010,Banks
+MG,20202020,2020,Commercial & Professional Services
+MGEE,55101010,5510,Utilities
+MGLN,35102030,3510,Health Care Equipment & Services
+MGM,25301010,2530,Consumer Services
+MGNX,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+MGPI,30201020,3020,"Food, Beverage & Tobacco"
+MGRC,20201070,2020,Commercial & Professional Services
+MGTA,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+MGTX,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+MGY,10102020,1010,Energy
+MHK,25201020,2520,Consumer Durables & Apparel
+MHO,25201030,2520,Consumer Durables & Apparel
+MIC,20305010,2030,Transportation
+MIDD,20106020,2010,Capital Goods
+MIK,25504040,2550,Retailing
+MINI,20201070,2020,Commercial & Professional Services
+MIRM,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+MITK,45103010,4510,Software & Services
+MITT,40204010,4020,Diversified Financials
+MJCO,45103010,4510,Software & Services
+MKC,30202030,3020,"Food, Beverage & Tobacco"
+MKL,40301040,4030,Insurance
+MKSI,45301010,4530,Semiconductors & Semiconductor Equipment
+MKTX,40203040,4020,Diversified Financials
+MLAB,35101010,3510,Health Care Equipment & Services
+MLHR,20201060,2020,Commercial & Professional Services
+MLI,20106020,2010,Capital Goods
+MLM,15102010,1510,Materials
+MLND,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+MLP,60102030,6010,Real Estate
+MLR,20106010,2010,Capital Goods
+MLVF,40101015,4010,Banks
+MMAC,40102010,4010,Banks
+MMC,40301010,4030,Insurance
+MMI,60102040,6010,Real Estate
+MMM,20105010,2010,Capital Goods
+MMS,45102020,4510,Software & Services
+MMSI,35101020,3510,Health Care Equipment & Services
+MNK,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+MNKD,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+MNLO,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+MNOV,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+MNR,60101020,6010,Real Estate
+MNRL,10102020,1010,Energy
+MNRO,25504050,2550,Retailing
+MNSB,40101015,4010,Banks
+MNST,30201030,3020,"Food, Beverage & Tobacco"
+MNTA,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+MO,30203010,3020,"Food, Beverage & Tobacco"
+MOBL,45103010,4510,Software & Services
+MOD,25101010,2510,Automobiles & Components
+MODN,45103010,4510,Software & Services
+MOFG,40101015,4010,Banks
+MOG/A,20101010,2010,Capital Goods
+MOH,35102030,3510,Health Care Equipment & Services
+MORF,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+MORN,40203040,4020,Diversified Financials
+MOS,15101030,1510,Materials
+MOV,25203010,2520,Consumer Durables & Apparel
+MPAA,25101010,2510,Automobiles & Components
+MPB,40101015,4010,Banks
+MPC,10102030,1010,Energy
+MPW,60101050,6010,Real Estate
+MPWR,45301020,4530,Semiconductors & Semiconductor Equipment
+MPX,25202010,2520,Consumer Durables & Apparel
+MR,10102020,1010,Energy
+MRC,20107010,2010,Capital Goods
+MRCY,20101010,2010,Capital Goods
+MRK,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+MRKR,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+MRLN,40201040,4020,Diversified Financials
+MRNA,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+MRNS,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+MRO,10102020,1010,Energy
+MRSN,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+MRTN,20304020,2030,Transportation
+MRTX,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+MRVL,45301020,4530,Semiconductors & Semiconductor Equipment
+MS,40203020,4020,Diversified Financials
+MSA,20201060,2020,Commercial & Professional Services
+MSBI,40101015,4010,Banks
+MSCI,40203040,4020,Diversified Financials
+MSEX,55104010,5510,Utilities
+MSFT,45103020,4510,Software & Services
+MSGE,50202010,5020,Media & Entertainment
+MSGN,50201030,5020,Media & Entertainment
+MSGS,50202010,5020,Media & Entertainment
+MSI,45201020,4520,Technology Hardware & Equipment
+MSM,20107010,2010,Capital Goods
+MSON,35101010,3510,Health Care Equipment & Services
+MSTR,45103010,4510,Software & Services
+MTB,40101015,4010,Banks
+MTCH,50203010,5020,Media & Entertainment
+MTD,35203010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+MTDR,10102020,1010,Energy
+MTEM,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+MTG,40102010,4010,Banks
+MTH,25201030,2520,Consumer Durables & Apparel
+MTN,25301030,2530,Consumer Services
+MTOR,20106010,2010,Capital Goods
+MTRN,15104020,1510,Materials
+MTRX,10101020,1010,Energy
+MTSC,45203010,4520,Technology Hardware & Equipment
+MTSI,45301020,4530,Semiconductors & Semiconductor Equipment
+MTW,20106010,2010,Capital Goods
+MTX,15101050,1510,Materials
+MTZ,20103010,2010,Capital Goods
+MU,45301020,4530,Semiconductors & Semiconductor Equipment
+MUR,10102020,1010,Energy
+MUSA,25504050,2550,Retailing
+MVBF,40101015,4010,Banks
+MWA,20106020,2010,Capital Goods
+MXIM,45301020,4530,Semiconductors & Semiconductor Equipment
+MXL,45301020,4530,Semiconductors & Semiconductor Equipment
+MYE,15103010,1510,Materials
+MYGN,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+MYL,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+MYOK,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+MYRG,20103010,2010,Capital Goods
+NAT,10102040,1010,Energy
+NATH,25301040,2530,Consumer Services
+NATI,45203010,4520,Technology Hardware & Equipment
+NATR,30302010,3030,Household & Personal Products
+NAV,20106010,2010,Capital Goods
+NAVI,40202010,4020,Diversified Financials
+NBEV,30201030,3020,"Food, Beverage & Tobacco"
+NBHC,40101015,4010,Banks
+NBIX,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+NBL,10102020,1010,Energy
+NBN,40101015,4010,Banks
+NBR,10101010,1010,Energy
+NBTB,40101015,4010,Banks
+NC,10102050,1010,Energy
+NCBS,40101015,4010,Banks
+NCLH,25301020,2530,Consumer Services
+NCMI,50201010,5020,Media & Entertainment
+NCR,45202030,4520,Technology Hardware & Equipment
+NCSM,10101020,1010,Energy
+NDAQ,40203040,4020,Diversified Financials
+NDLS,25301040,2530,Consumer Services
+NDSN,20106020,2010,Capital Goods
+NE,10101010,1010,Energy
+NEE,55101010,5510,Utilities
+NEM,15104030,1510,Materials
+NEO,35203010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+NEOG,35101020,3510,Health Care Equipment & Services
+NERV,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+NESR,10101020,1010,Energy
+NEU,15101050,1510,Materials
+NEWR,45103010,4510,Software & Services
+NEX,10101020,1010,Energy
+NEXT,10102040,1010,Energy
+NFBK,40102010,4010,Banks
+NFG,55102010,5510,Utilities
+NFLX,50202010,5020,Media & Entertainment
+NG,15104030,1510,Materials
+NGHC,40301030,4030,Insurance
+NGM,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+NGS,10101020,1010,Energy
+NGVC,30101030,3010,Food & Staples Retailing
+NGVT,15101050,1510,Materials
+NHC,35102020,3510,Health Care Equipment & Services
+NHI,60101050,6010,Real Estate
+NI,55103010,5510,Utilities
+NINE,10101020,1010,Energy
+NJR,55102010,5510,Utilities
+NKE,25203020,2520,Consumer Durables & Apparel
+NKSH,40101015,4010,Banks
+NKTR,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+NL,20201060,2020,Commercial & Professional Services
+NLOK,45103020,4510,Software & Services
+NLSN,20202020,2020,Commercial & Professional Services
+NLY,40204010,4020,Diversified Financials
+NMIH,40102010,4010,Banks
+NMRK,60102040,6010,Real Estate
+NNBR,20106020,2010,Capital Goods
+NNI,40202010,4020,Diversified Financials
+NNN,60101070,6010,Real Estate
+NOC,20101010,2010,Capital Goods
+NODK,40301040,4030,Insurance
+NOG,10102020,1010,Energy
+NOV,10101020,1010,Energy
+NOVA,55105020,5510,Utilities
+NOVT,45203010,4520,Technology Hardware & Equipment
+NOW,45103020,4510,Software & Services
+NP,15105020,1510,Materials
+NPK,20101010,2010,Capital Goods
+NPO,20106020,2010,Capital Goods
+NPTN,45301020,4530,Semiconductors & Semiconductor Equipment
+NR,10101020,1010,Energy
+NRC,35102015,3510,Health Care Equipment & Services
+NRG,55101010,5510,Utilities
+NRIM,40101015,4010,Banks
+NRZ,40204010,4020,Diversified Financials
+NSA,60101080,6010,Real Estate
+NSC,20304010,2030,Transportation
+NSIT,45203030,4520,Technology Hardware & Equipment
+NSP,20202010,2020,Commercial & Professional Services
+NSSC,45203010,4520,Technology Hardware & Equipment
+NSTG,35203010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+NTAP,45202030,4520,Technology Hardware & Equipment
+NTB,40101010,4010,Banks
+NTCT,45201020,4520,Technology Hardware & Equipment
+NTGR,45201020,4520,Technology Hardware & Equipment
+NTLA,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+NTNX,45103010,4510,Software & Services
+NTRA,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+NTRS,40203010,4020,Diversified Financials
+NTUS,35101010,3510,Health Care Equipment & Services
+NUAN,45103010,4510,Software & Services
+NUE,15104050,1510,Materials
+NUS,30302010,3030,Household & Personal Products
+NUVA,35101010,3510,Health Care Equipment & Services
+NVAX,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+NVCR,35101010,3510,Health Care Equipment & Services
+NVDA,45301020,4530,Semiconductors & Semiconductor Equipment
+NVEC,45301020,4530,Semiconductors & Semiconductor Equipment
+NVEE,20103010,2010,Capital Goods
+NVR,25201030,2520,Consumer Durables & Apparel
+NVRO,35101010,3510,Health Care Equipment & Services
+NVST,35101010,3510,Health Care Equipment & Services
+NVT,20104010,2010,Capital Goods
+NVTA,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+NWBI,40102010,4010,Banks
+NWE,55103010,5510,Utilities
+NWFL,40101015,4010,Banks
+NWL,25201050,2520,Consumer Durables & Apparel
+NWLI,40301020,4030,Insurance
+NWN,55102010,5510,Utilities
+NWPX,20103010,2010,Capital Goods
+NWS,50201040,5020,Media & Entertainment
+NWSA,50201040,5020,Media & Entertainment
+NX,20102010,2010,Capital Goods
+NXGN,35103010,3510,Health Care Equipment & Services
+NXRT,60101060,6010,Real Estate
+NXST,50201020,5020,Media & Entertainment
+NXTC,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+NYCB,40102010,4010,Banks
+NYMT,40204010,4020,Diversified Financials
+NYT,50201040,5020,Media & Entertainment
+O,60101070,6010,Real Estate
+OAS,10102020,1010,Energy
+OBNK,40101015,4010,Banks
+OC,20102010,2010,Capital Goods
+OCFC,40101015,4010,Banks
+OCN,40102010,4010,Banks
+OCUL,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+OCX,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+ODC,30301010,3030,Household & Personal Products
+ODFL,20304020,2030,Transportation
+ODP,25504040,2550,Retailing
+ODT,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+OEC,15101010,1510,Materials
+OFC,60101040,6010,Real Estate
+OFG,40101015,4010,Banks
+OFIX,35101010,3510,Health Care Equipment & Services
+OFLX,20106020,2010,Capital Goods
+OGE,55101010,5510,Utilities
+OGS,55102010,5510,Utilities
+OHI,60101050,6010,Real Estate
+OI,15103010,1510,Materials
+OII,10101020,1010,Energy
+OIS,10101020,1010,Energy
+OKE,10102040,1010,Energy
+OKTA,45102030,4510,Software & Services
+OLED,45301020,4530,Semiconductors & Semiconductor Equipment
+OLLI,25503020,2550,Retailing
+OLN,15101010,1510,Materials
+OLP,60101010,6010,Real Estate
+OMC,50201010,5020,Media & Entertainment
+OMCL,35103010,3510,Health Care Equipment & Services
+OMER,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+OMF,40202010,4020,Diversified Financials
+OMI,35102010,3510,Health Care Equipment & Services
+ON,45301020,4530,Semiconductors & Semiconductor Equipment
+ONB,40101015,4010,Banks
+ONDK,40201040,4020,Diversified Financials
+ONEM,35102015,3510,Health Care Equipment & Services
+ONEW,25504050,2550,Retailing
+ONTO,45301010,4530,Semiconductors & Semiconductor Equipment
+OOMA,50101020,5010,Telecommunication Services
+OPB,40101015,4010,Banks
+OPBK,40102010,4010,Banks
+OPCH,35102015,3510,Health Care Equipment & Services
+OPI,60101040,6010,Real Estate
+OPK,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+OPRT,40202010,4020,Diversified Financials
+OPRX,35103010,3510,Health Care Equipment & Services
+OPTN,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+OPY,40203020,4020,Diversified Financials
+ORA,55105020,5510,Utilities
+ORBC,50101010,5010,Telecommunication Services
+ORC,40204010,4020,Diversified Financials
+ORCL,45103020,4510,Software & Services
+ORGO,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+ORI,40301040,4030,Insurance
+ORLY,25504050,2550,Retailing
+ORRF,40101015,4010,Banks
+OSBC,40101015,4010,Banks
+OSG,10102040,1010,Energy
+OSIS,45203010,4520,Technology Hardware & Equipment
+OSK,20106010,2010,Capital Goods
+OSMT,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+OSPN,45103020,4510,Software & Services
+OSTK,25502020,2550,Retailing
+OSUR,35101020,3510,Health Care Equipment & Services
+OSW,25302020,2530,Consumer Services
+OTIS,20106020,2010,Capital Goods
+OTTR,55101010,5510,Utilities
+OUT,60101080,6010,Real Estate
+OVBC,40101015,4010,Banks
+OVLY,40101015,4010,Banks
+OXM,25203010,2520,Consumer Durables & Apparel
+OXY,10102010,1010,Energy
+OYST,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+OZK,40101015,4010,Banks
+PACB,35203010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+PACD,10101010,1010,Energy
+PACW,40101015,4010,Banks
+PAG,25504050,2550,Retailing
+PAHC,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+PANW,45103020,4510,Software & Services
+PAR,45203010,4520,Technology Hardware & Equipment
+PARR,10102030,1010,Energy
+PATK,20102010,2010,Capital Goods
+PAYC,45103010,4510,Software & Services
+PAYS,45102020,4510,Software & Services
+PAYX,45102020,4510,Software & Services
+PB,40101015,4010,Banks
+PBCT,40101015,4010,Banks
+PBF,10102030,1010,Energy
+PBFS,40102010,4010,Banks
+PBH,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+PBI,20201060,2020,Commercial & Professional Services
+PBIP,40102010,4010,Banks
+PBPB,25301040,2530,Consumer Services
+PBYI,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+PCAR,20106010,2010,Capital Goods
+PCB,40101015,4010,Banks
+PCG,55101010,5510,Utilities
+PCH,60101080,6010,Real Estate
+PCRX,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+PCSB,40102010,4010,Banks
+PCTY,45103010,4510,Software & Services
+PCYO,55104010,5510,Utilities
+PD,45103010,4510,Software & Services
+PDCE,10102020,1010,Energy
+PDCO,35102010,3510,Health Care Equipment & Services
+PDFS,45301010,4530,Semiconductors & Semiconductor Equipment
+PDLB,40102010,4010,Banks
+PDLI,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+PDM,60101040,6010,Real Estate
+PE,10102020,1010,Energy
+PEAK,60101050,6010,Real Estate
+PEB,60101030,6010,Real Estate
+PEBK,40101015,4010,Banks
+PEBO,40101015,4010,Banks
+PEG,55103010,5510,Utilities
+PEGA,45103010,4510,Software & Services
+PEI,60101070,6010,Real Estate
+PEN,35101010,3510,Health Care Equipment & Services
+PENN,25301010,2530,Consumer Services
+PEP,30201030,3020,"Food, Beverage & Tobacco"
+PETQ,35102010,3510,Health Care Equipment & Services
+PETS,25502020,2550,Retailing
+PFBC,40101015,4010,Banks
+PFBI,40101015,4010,Banks
+PFE,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+PFG,40301020,4030,Insurance
+PFGC,30101020,3010,Food & Staples Retailing
+PFHD,40101015,4010,Banks
+PFIS,40101015,4010,Banks
+PFNX,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+PFPT,45103020,4510,Software & Services
+PFS,40102010,4010,Banks
+PFSI,40102010,4010,Banks
+PG,30301010,3030,Household & Personal Products
+PGC,40101015,4010,Banks
+PGEN,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+PGNX,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+PGNY,35102030,3510,Health Care Equipment & Services
+PGR,40301040,4030,Insurance
+PGRE,60101040,6010,Real Estate
+PGTI,20102010,2010,Capital Goods
+PH,20106020,2010,Capital Goods
+PHAS,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+PHAT,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+PHM,25201030,2520,Consumer Durables & Apparel
+PHR,35103010,3510,Health Care Equipment & Services
+PHUN,45103010,4510,Software & Services
+PHX,10102020,1010,Energy
+PI,45301020,4530,Semiconductors & Semiconductor Equipment
+PICO,20201050,2020,Commercial & Professional Services
+PII,25202010,2520,Consumer Durables & Apparel
+PINC,35102015,3510,Health Care Equipment & Services
+PING,45103020,4510,Software & Services
+PIPR,40203020,4020,Diversified Financials
+PIRS,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+PJT,40203020,4020,Diversified Financials
+PK,60101030,6010,Real Estate
+PKBK,40101015,4010,Banks
+PKE,20101010,2010,Capital Goods
+PKG,15103020,1510,Materials
+PKI,35203010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+PKOH,20106020,2010,Capital Goods
+PLAB,45301010,4530,Semiconductors & Semiconductor Equipment
+PLAN,45103010,4510,Software & Services
+PLAY,25301040,2530,Consumer Services
+PLCE,25504010,2550,Retailing
+PLD,60101020,6010,Real Estate
+PLMR,40301040,4030,Insurance
+PLNT,25301030,2530,Consumer Services
+PLOW,20106010,2010,Capital Goods
+PLPC,20104010,2010,Capital Goods
+PLSE,35101010,3510,Health Care Equipment & Services
+PLT,45201020,4520,Technology Hardware & Equipment
+PLUG,20104010,2010,Capital Goods
+PLUS,45203030,4520,Technology Hardware & Equipment
+PLXS,45203020,4520,Technology Hardware & Equipment
+PM,30203010,3020,"Food, Beverage & Tobacco"
+PMBC,40101015,4010,Banks
+PMT,40204010,4020,Diversified Financials
+PNC,40101015,4010,Banks
+PNFP,40101015,4010,Banks
+PNM,55101010,5510,Utilities
+PNR,20106020,2010,Capital Goods
+PNRG,10102020,1010,Energy
+PNTG,35102020,3510,Health Care Equipment & Services
+PNW,55101010,5510,Utilities
+PODD,35101010,3510,Health Care Equipment & Services
+POL,15101050,1510,Materials
+POOL,25501010,2550,Retailing
+POR,55101010,5510,Utilities
+POST,30202030,3020,"Food, Beverage & Tobacco"
+POWI,45301020,4530,Semiconductors & Semiconductor Equipment
+POWL,20104010,2010,Capital Goods
+PPBI,40101015,4010,Banks
+PPC,30202030,3020,"Food, Beverage & Tobacco"
+PPD,35203010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+PPG,15101050,1510,Materials
+PPL,55101010,5510,Utilities
+PQG,15101050,1510,Materials
+PRA,40301040,4030,Insurance
+PRAA,40202010,4020,Diversified Financials
+PRAH,35203010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+PRDO,25302010,2530,Consumer Services
+PRFT,45102010,4510,Software & Services
+PRGO,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+PRGS,45103020,4510,Software & Services
+PRGX,45102020,4510,Software & Services
+PRI,40301020,4030,Insurance
+PRIM,20103010,2010,Capital Goods
+PRK,40101015,4010,Banks
+PRLB,20106020,2010,Capital Goods
+PRNB,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+PRO,45103010,4510,Software & Services
+PROS,40301040,4030,Insurance
+PROV,40102010,4010,Banks
+PRPL,25201020,2520,Consumer Durables & Apparel
+PRSC,35102015,3510,Health Care Equipment & Services
+PRSP,45102010,4510,Software & Services
+PRTA,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+PRTH,45102020,4510,Software & Services
+PRTK,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+PRTY,25504040,2550,Retailing
+PRU,40301020,4030,Insurance
+PRVL,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+PS,45103010,4510,Software & Services
+PSA,60101080,6010,Real Estate
+PSB,60101010,6010,Real Estate
+PSMT,30101040,3010,Food & Staples Retailing
+PSN,20101010,2010,Capital Goods
+PSNL,35203010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+PSTG,45202030,4520,Technology Hardware & Equipment
+PSX,10102030,1010,Energy
+PTC,45103010,4510,Software & Services
+PTCT,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+PTE,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+PTEN,10101010,1010,Energy
+PTGX,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+PTLA,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+PTN,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+PTSI,20304020,2030,Transportation
+PTVCB,40301040,4030,Insurance
+PUB,40101015,4010,Banks
+PUMP,10101020,1010,Energy
+PVAC,10102020,1010,Energy
+PVBC,40102010,4010,Banks
+PVH,25203010,2520,Consumer Durables & Apparel
+PWOD,40101015,4010,Banks
+PWR,20103010,2010,Capital Goods
+PXD,10102020,1010,Energy
+PYPL,45102020,4510,Software & Services
+PYX,30203010,3020,"Food, Beverage & Tobacco"
+PZN,40203010,4020,Diversified Financials
+PZZA,25301040,2530,Consumer Services
+QADA,45103010,4510,Software & Services
+QCOM,45301020,4530,Semiconductors & Semiconductor Equipment
+QCRH,40101015,4010,Banks
+QDEL,35101020,3510,Health Care Equipment & Services
+QEP,10102020,1010,Energy
+QGEN,35203010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+QLYS,45103020,4510,Software & Services
+QNST,50203010,5020,Media & Entertainment
+QRTEA,25502020,2550,Retailing
+QRVO,45301020,4530,Semiconductors & Semiconductor Equipment
+QTRX,35203010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+QTS,60101080,6010,Real Estate
+QTWO,45103010,4510,Software & Services
+QUAD,20201010,2020,Commercial & Professional Services
+QUOT,25502020,2550,Retailing
+R,20304020,2030,Transportation
+RAD,30101010,3010,Food & Staples Retailing
+RAMP,45102010,4510,Software & Services
+RAPT,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+RARE,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+RAVN,20105010,2010,Capital Goods
+RBB,40101015,4010,Banks
+RBBN,45201020,4520,Technology Hardware & Equipment
+RBC,20104010,2010,Capital Goods
+RBCAA,40101015,4010,Banks
+RBNC,40101015,4010,Banks
+RC,40204010,4020,Diversified Financials
+RCII,25504020,2550,Retailing
+RCKT,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+RCKY,25203020,2520,Consumer Durables & Apparel
+RCL,25301020,2530,Consumer Services
+RCM,35102015,3510,Health Care Equipment & Services
+RCUS,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+RDFN,60102040,6010,Real Estate
+RDI,50202010,5020,Media & Entertainment
+RDN,40102010,4010,Banks
+RDNT,35102015,3510,Health Care Equipment & Services
+RDUS,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+RE,40301050,4030,Insurance
+REAL,25502020,2550,Retailing
+REG,60101070,6010,Real Estate
+REGI,10102030,1010,Energy
+REGN,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+REI,10102020,1010,Energy
+REPH,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+REPL,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+RES,10101020,1010,Energy
+RESI,60101060,6010,Real Estate
+RETA,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+REV,30302010,3030,Household & Personal Products
+REVG,20106010,2010,Capital Goods
+REX,10102030,1010,Energy
+REXR,60101020,6010,Real Estate
+REYN,30301010,3030,Household & Personal Products
+REZI,20102010,2010,Capital Goods
+RF,40101015,4010,Banks
+RFL,60102020,6010,Real Estate
+RGA,40301050,4030,Insurance
+RGCO,55102010,5510,Utilities
+RGEN,35203010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+RGLD,15104030,1510,Materials
+RGNX,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+RGP,20202020,2020,Commercial & Professional Services
+RGR,25202010,2520,Consumer Durables & Apparel
+RGS,25302020,2530,Consumer Services
+RH,25504060,2550,Retailing
+RHI,20202010,2020,Commercial & Professional Services
+RHP,60101030,6010,Real Estate
+RICK,25301030,2530,Consumer Services
+RIG,10101010,1010,Energy
+RIGL,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+RILY,40203020,4020,Diversified Financials
+RJF,40203020,4020,Diversified Financials
+RL,25203010,2520,Consumer Durables & Apparel
+RLGT,20301010,2030,Transportation
+RLGY,60102040,6010,Real Estate
+RLH,25301020,2530,Consumer Services
+RLI,40301040,4030,Insurance
+RLJ,60101030,6010,Real Estate
+RM,40202010,4020,Diversified Financials
+RMAX,60102040,6010,Real Estate
+RMBI,40101015,4010,Banks
+RMBS,45301020,4530,Semiconductors & Semiconductor Equipment
+RMD,35101010,3510,Health Care Equipment & Services
+RMNI,45103010,4510,Software & Services
+RMR,60102010,6010,Real Estate
+RMTI,35101020,3510,Health Care Equipment & Services
+RNET,10101020,1010,Energy
+RNG,45103010,4510,Software & Services
+RNR,40301050,4030,Insurance
+RNST,40101015,4010,Banks
+ROAD,20103010,2010,Capital Goods
+ROCK,20102010,2010,Capital Goods
+ROG,45203015,4520,Technology Hardware & Equipment
+ROIC,60101070,6010,Real Estate
+ROK,20104010,2010,Capital Goods
+ROKU,50202010,5020,Media & Entertainment
+ROL,20201050,2020,Commercial & Professional Services
+ROLL,20106020,2010,Capital Goods
+ROP,20105010,2010,Capital Goods
+ROSE,10102020,1010,Energy
+ROST,25504010,2550,Retailing
+RP,45103010,4510,Software & Services
+RPAI,60101070,6010,Real Estate
+RPD,45103020,4510,Software & Services
+RPM,15101050,1510,Materials
+RPT,60101070,6010,Real Estate
+RRBI,40101015,4010,Banks
+RRC,10102020,1010,Energy
+RRD,20201010,2020,Commercial & Professional Services
+RRGB,25301040,2530,Consumer Services
+RRR,25301010,2530,Consumer Services
+RS,15104050,1510,Materials
+RSG,20201050,2020,Commercial & Professional Services
+RST,45103010,4510,Software & Services
+RTIX,35101020,3510,Health Care Equipment & Services
+RTRX,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+RTW,25504010,2550,Retailing
+RTX,20101010,2010,Capital Goods
+RUBI,25502020,2550,Retailing
+RUBY,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+RUN,20104010,2010,Capital Goods
+RUSHA,20107010,2010,Capital Goods
+RUSHB,20107010,2010,Capital Goods
+RUTH,25301040,2530,Consumer Services
+RVI,60101070,6010,Real Estate
+RVMD,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+RVNC,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+RVSB,40102010,4010,Banks
+RWT,40204010,4020,Diversified Financials
+RXN,20106020,2010,Capital Goods
+RYAM,15101050,1510,Materials
+RYI,15104050,1510,Materials
+RYN,60101080,6010,Real Estate
+RYTM,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+SABR,45102020,4510,Software & Services
+SAFE,60101080,6010,Real Estate
+SAFM,30202030,3020,"Food, Beverage & Tobacco"
+SAFT,40301040,4030,Insurance
+SAGE,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+SAH,25504050,2550,Retailing
+SAIA,20304020,2030,Transportation
+SAIC,45102010,4510,Software & Services
+SAIL,45103020,4510,Software & Services
+SALT,20303010,2030,Transportation
+SAM,30201010,3020,"Food, Beverage & Tobacco"
+SAMG,40203010,4020,Diversified Financials
+SANM,45203020,4520,Technology Hardware & Equipment
+SASR,40101015,4010,Banks
+SATS,45201020,4520,Technology Hardware & Equipment
+SAVE,20302010,2030,Transportation
+SB,20303010,2030,Transportation
+SBAC,60101080,6010,Real Estate
+SBBP,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+SBBX,40101015,4010,Banks
+SBCF,40101015,4010,Banks
+SBGI,50201020,5020,Media & Entertainment
+SBH,25504040,2550,Retailing
+SBNY,40101015,4010,Banks
+SBOW,10102020,1010,Energy
+SBRA,60101050,6010,Real Estate
+SBSI,40101015,4010,Banks
+SBT,40102010,4010,Banks
+SBUX,25301040,2530,Consumer Services
+SC,40202010,4020,Diversified Financials
+SCCO,15104025,1510,Materials
+SCHL,50201040,5020,Media & Entertainment
+SCHN,15104050,1510,Materials
+SCHW,40203020,4020,Diversified Financials
+SCI,25302020,2530,Consumer Services
+SCL,15101050,1510,Materials
+SCOR,50201010,5020,Media & Entertainment
+SCS,20201060,2020,Commercial & Professional Services
+SCSC,45203030,4520,Technology Hardware & Equipment
+SCU,40203010,4020,Diversified Financials
+SCVL,25504010,2550,Retailing
+SCWX,45103020,4510,Software & Services
+SD,10102020,1010,Energy
+SDGR,35103010,3510,Health Care Equipment & Services
+SDRL,10101010,1010,Energy
+SEAS,25301030,2530,Consumer Services
+SEB,30202030,3020,"Food, Beverage & Tobacco"
+SEE,15103020,1510,Materials
+SEIC,40203010,4020,Diversified Financials
+SEM,35102020,3510,Health Care Equipment & Services
+SENEA,30202030,3020,"Food, Beverage & Tobacco"
+SENS,35101020,3510,Health Care Equipment & Services
+SERV,25302020,2530,Consumer Services
+SF,40203020,4020,Diversified Financials
+SFBS,40101015,4010,Banks
+SFE,40203010,4020,Diversified Financials
+SFIX,25502020,2550,Retailing
+SFL,10102040,1010,Energy
+SFM,30101030,3010,Food & Staples Retailing
+SFNC,40101015,4010,Banks
+SFST,40101015,4010,Banks
+SGA,50201020,5020,Media & Entertainment
+SGC,25203010,2520,Consumer Durables & Apparel
+SGEN,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+SGH,45301020,4530,Semiconductors & Semiconductor Equipment
+SGMO,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+SGMS,25301010,2530,Consumer Services
+SGRY,35102020,3510,Health Care Equipment & Services
+SHAK,25301040,2530,Consumer Services
+SHBI,40101015,4010,Banks
+SHEN,50102010,5010,Telecommunication Services
+SHO,60101030,6010,Real Estate
+SHOO,25203020,2520,Consumer Durables & Apparel
+SHSP,45103010,4510,Software & Services
+SHW,15101050,1510,Materials
+SI,40101015,4010,Banks
+SIBN,35101020,3510,Health Care Equipment & Services
+SIC,25302020,2530,Consumer Services
+SIEB,40203020,4020,Diversified Financials
+SIEN,35101020,3510,Health Care Equipment & Services
+SIG,25504040,2550,Retailing
+SIGA,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+SIGI,40301040,4030,Insurance
+SILK,35101020,3510,Health Care Equipment & Services
+SIRI,50201030,5020,Media & Entertainment
+SITC,60101070,6010,Real Estate
+SITE,20107010,2010,Capital Goods
+SITM,45301020,4530,Semiconductors & Semiconductor Equipment
+SIVB,40101015,4010,Banks
+SIX,25301030,2530,Consumer Services
+SJI,55102010,5510,Utilities
+SJM,30202030,3020,"Food, Beverage & Tobacco"
+SJW,55104010,5510,Utilities
+SKT,60101070,6010,Real Estate
+SKX,25203020,2520,Consumer Durables & Apparel
+SKY,25201030,2520,Consumer Durables & Apparel
+SKYW,20302010,2030,Transportation
+SLAB,45301020,4530,Semiconductors & Semiconductor Equipment
+SLB,10101020,1010,Energy
+SLCA,10101020,1010,Energy
+SLCT,40101015,4010,Banks
+SLDB,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+SLG,60101040,6010,Real Estate
+SLGN,15103010,1510,Materials
+SLM,40202010,4020,Diversified Financials
+SLP,35103010,3510,Health Care Equipment & Services
+SM,10102020,1010,Energy
+SMAR,45103010,4510,Software & Services
+SMBC,40102010,4010,Banks
+SMBK,40101015,4010,Banks
+SMG,15101030,1510,Materials
+SMHI,10101020,1010,Energy
+SMMF,40101015,4010,Banks
+SMP,25101010,2510,Automobiles & Components
+SMPL,30202030,3020,"Food, Beverage & Tobacco"
+SMTC,45301020,4530,Semiconductors & Semiconductor Equipment
+SNA,20106020,2010,Capital Goods
+SNBR,25504060,2550,Retailing
+SNCR,45103010,4510,Software & Services
+SND,10101020,1010,Energy
+SNDR,20304020,2030,Transportation
+SNDX,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+SNPS,45103010,4510,Software & Services
+SNR,60101050,6010,Real Estate
+SNV,40101015,4010,Banks
+SNX,45203030,4520,Technology Hardware & Equipment
+SO,55101010,5510,Utilities
+SOI,10101020,1010,Energy
+SOLY,35101010,3510,Health Care Equipment & Services
+SON,15103020,1510,Materials
+SONA,40101015,4010,Banks
+SONM,45202030,4520,Technology Hardware & Equipment
+SONO,25201010,2520,Consumer Durables & Apparel
+SP,20201050,2020,Commercial & Professional Services
+SPAR,20106010,2010,Capital Goods
+SPB,30301010,3030,Household & Personal Products
+SPFI,40101015,4010,Banks
+SPG,60101070,6010,Real Estate
+SPGI,40203040,4020,Diversified Financials
+SPKE,55101010,5510,Utilities
+SPLK,45103010,4510,Software & Services
+SPNE,35101010,3510,Health Care Equipment & Services
+SPOK,50102010,5010,Telecommunication Services
+SPOT,50202010,5020,Media & Entertainment
+SPPI,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+SPR,20101010,2010,Capital Goods
+SPRO,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+SPSC,45103010,4510,Software & Services
+SPT,45103010,4510,Software & Services
+SPTN,30101020,3010,Food & Staples Retailing
+SPWH,25504040,2550,Retailing
+SPWR,45301020,4530,Semiconductors & Semiconductor Equipment
+SPXC,20106020,2010,Capital Goods
+SQ,45102020,4510,Software & Services
+SR,55102010,5510,Utilities
+SRC,60101070,6010,Real Estate
+SRCE,40101015,4010,Banks
+SRCL,20201050,2020,Commercial & Professional Services
+SRDX,35101010,3510,Health Care Equipment & Services
+SRE,55103010,5510,Utilities
+SRG,60101070,6010,Real Estate
+SRI,25101010,2510,Automobiles & Components
+SRNE,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+SRPT,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+SRRK,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+SRT,45102020,4510,Software & Services
+SSB,40101015,4010,Banks
+SSD,20102010,2010,Capital Goods
+SSNC,45103010,4510,Software & Services
+SSP,50201020,5020,Media & Entertainment
+SSTI,45103010,4510,Software & Services
+SSTK,25502020,2550,Retailing
+SSYS,45202030,4520,Technology Hardware & Equipment
+ST,20104010,2010,Capital Goods
+STAA,35101020,3510,Health Care Equipment & Services
+STAG,60101020,6010,Real Estate
+STAR,60101010,6010,Real Estate
+STAY,25301020,2530,Consumer Services
+STBA,40101015,4010,Banks
+STC,40301040,4030,Insurance
+STE,35101010,3510,Health Care Equipment & Services
+STFC,40301040,4030,Insurance
+STIM,35101010,3510,Health Care Equipment & Services
+STL,40101015,4010,Banks
+STLD,15104050,1510,Materials
+STML,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+STMP,25502020,2550,Retailing
+STNG,10102040,1010,Energy
+STOK,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+STOR,60101010,6010,Real Estate
+STRA,25302010,2530,Consumer Services
+STRL,20103010,2010,Capital Goods
+STRO,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+STRS,60102030,6010,Real Estate
+STSA,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+STT,40203010,4020,Diversified Financials
+STWD,40204010,4020,Diversified Financials
+STXB,40101015,4010,Banks
+STZ,30201020,3020,"Food, Beverage & Tobacco"
+SUI,60101060,6010,Real Estate
+SUM,15102010,1510,Materials
+SUPN,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+SVC,60101030,6010,Real Estate
+SVMK,45103010,4510,Software & Services
+SVRA,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+SWAV,35101010,3510,Health Care Equipment & Services
+SWCH,45102030,4510,Software & Services
+SWI,45103020,4510,Software & Services
+SWK,20106020,2010,Capital Goods
+SWKS,45301020,4530,Semiconductors & Semiconductor Equipment
+SWM,15105020,1510,Materials
+SWN,10102020,1010,Energy
+SWTX,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+SWX,55102010,5510,Utilities
+SXC,15104050,1510,Materials
+SXI,20106020,2010,Capital Goods
+SXT,15101050,1510,Materials
+SYBT,40101015,4010,Banks
+SYBX,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+SYF,40202010,4020,Diversified Financials
+SYK,35101010,3510,Health Care Equipment & Services
+SYKE,45102020,4510,Software & Services
+SYNA,45301020,4530,Semiconductors & Semiconductor Equipment
+SYNH,35203010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+SYNL,15104050,1510,Materials
+SYRS,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+SYX,20107010,2010,Capital Goods
+SYY,30101020,3010,Food & Staples Retailing
+T,50101020,5010,Telecommunication Services
+TACO,25301040,2530,Consumer Services
+TALO,10102020,1010,Energy
+TAP,30201010,3020,"Food, Beverage & Tobacco"
+TAST,25301040,2530,Consumer Services
+TBBK,40101015,4010,Banks
+TBI,20202010,2020,Commercial & Professional Services
+TBIO,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+TBK,40101015,4010,Banks
+TBNK,40102010,4010,Banks
+TBPH,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+TCBI,40101015,4010,Banks
+TCBK,40101015,4010,Banks
+TCDA,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+TCF,40101015,4010,Banks
+TCFC,40101015,4010,Banks
+TCI,60102020,6010,Real Estate
+TCMD,35101010,3510,Health Care Equipment & Services
+TCO,60101070,6010,Real Estate
+TCRR,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+TCS,25504040,2550,Retailing
+TCX,45102030,4510,Software & Services
+TDC,45103020,4510,Software & Services
+TDG,20101010,2010,Capital Goods
+TDOC,35103010,3510,Health Care Equipment & Services
+TDS,50102010,5010,Telecommunication Services
+TDW,10101020,1010,Energy
+TDY,20101010,2010,Capital Goods
+TEAM,45103010,4510,Software & Services
+TECD,45203030,4520,Technology Hardware & Equipment
+TECH,35203010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+TELL,10102020,1010,Energy
+TEN,25101010,2510,Automobiles & Components
+TENB,45103020,4510,Software & Services
+TER,45301010,4530,Semiconductors & Semiconductor Equipment
+TERP,55105020,5510,Utilities
+TESS,45201020,4520,Technology Hardware & Equipment
+TEUM,45103010,4510,Software & Services
+TEX,20106010,2010,Capital Goods
+TFC,40101015,4010,Banks
+TFSL,40102010,4010,Banks
+TFX,35101010,3510,Health Care Equipment & Services
+TG,15101010,1510,Materials
+TGH,20107010,2010,Capital Goods
+TGI,20101010,2010,Capital Goods
+TGNA,50201020,5020,Media & Entertainment
+TGT,25503020,2550,Retailing
+TGTX,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+TH,25301020,2530,Consumer Services
+THC,35102020,3510,Health Care Equipment & Services
+THFF,40101015,4010,Banks
+THG,40301040,4030,Insurance
+THO,25102010,2510,Automobiles & Components
+THR,20104010,2010,Capital Goods
+THRM,25101010,2510,Automobiles & Components
+THS,30202030,3020,"Food, Beverage & Tobacco"
+TIF,25504040,2550,Retailing
+TILE,20201060,2020,Commercial & Professional Services
+TIPT,40301040,4030,Insurance
+TISI,20201050,2020,Commercial & Professional Services
+TITN,20107010,2010,Capital Goods
+TIVO,45103020,4510,Software & Services
+TJX,25504010,2550,Retailing
+TK,10102040,1010,Energy
+TKR,20106020,2010,Capital Goods
+TLRD,25504010,2550,Retailing
+TLYS,25504010,2550,Retailing
+TMDX,35101010,3510,Health Care Equipment & Services
+TMHC,25201030,2520,Consumer Durables & Apparel
+TMO,35203010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+TMP,40101015,4010,Banks
+TMST,15104050,1510,Materials
+TMUS,50102010,5010,Telecommunication Services
+TNAV,45103010,4510,Software & Services
+TNC,20106020,2010,Capital Goods
+TNDM,35101010,3510,Health Care Equipment & Services
+TNET,20202010,2020,Commercial & Professional Services
+TNK,10102040,1010,Energy
+TOCA,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+TOL,25201030,2520,Consumer Durables & Apparel
+TORC,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+TOWN,40101015,4010,Banks
+TPB,30203010,3020,"Food, Beverage & Tobacco"
+TPC,20103010,2010,Capital Goods
+TPCO,50201040,5020,Media & Entertainment
+TPH,25201030,2520,Consumer Durables & Apparel
+TPIC,20104020,2010,Capital Goods
+TPR,25203010,2520,Consumer Durables & Apparel
+TPRE,40301050,4030,Insurance
+TPTX,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+TPX,25201020,2520,Consumer Durables & Apparel
+TR,30202030,3020,"Food, Beverage & Tobacco"
+TRC,60102010,6010,Real Estate
+TREC,15101010,1510,Materials
+TREE,40202010,4020,Diversified Financials
+TREX,20102010,2010,Capital Goods
+TRGP,10102040,1010,Energy
+TRHC,35103010,3510,Health Care Equipment & Services
+TRIP,50203010,5020,Media & Entertainment
+TRMB,45203010,4520,Technology Hardware & Equipment
+TRMK,40101015,4010,Banks
+TRN,20106010,2010,Capital Goods
+TRNO,60101020,6010,Real Estate
+TRNS,20107010,2010,Capital Goods
+TROW,40203010,4020,Diversified Financials
+TROX,15101010,1510,Materials
+TRS,20106020,2010,Capital Goods
+TRST,40102010,4010,Banks
+TRTN,20107010,2010,Capital Goods
+TRTX,40204010,4020,Diversified Financials
+TRU,20202020,2020,Commercial & Professional Services
+TRUE,50203010,5020,Media & Entertainment
+TRUP,40301020,4030,Insurance
+TRV,40301040,4030,Insurance
+TRWH,25301010,2530,Consumer Services
+TRXC,35101010,3510,Health Care Equipment & Services
+TSBK,40102010,4010,Banks
+TSC,40101015,4010,Banks
+TSCO,25504040,2550,Retailing
+TSE,15101010,1510,Materials
+TSLA,25102010,2510,Automobiles & Components
+TSN,30202030,3020,"Food, Beverage & Tobacco"
+TT,20102010,2010,Capital Goods
+TTC,20106015,2010,Capital Goods
+TTD,45103010,4510,Software & Services
+TTEC,45102020,4510,Software & Services
+TTEK,20201050,2020,Commercial & Professional Services
+TTGT,50201010,5020,Media & Entertainment
+TTI,10101020,1010,Energy
+TTMI,45203020,4520,Technology Hardware & Equipment
+TTWO,50202020,5020,Media & Entertainment
+TUP,25201050,2520,Consumer Durables & Apparel
+TUSK,10101020,1010,Energy
+TVTY,35102015,3510,Health Care Equipment & Services
+TWI,20106015,2010,Capital Goods
+TWIN,20106010,2010,Capital Goods
+TWLO,45102030,4510,Software & Services
+TWNK,30202030,3020,"Food, Beverage & Tobacco"
+TWO,40204010,4020,Diversified Financials
+TWOU,45103010,4510,Software & Services
+TWST,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+TWTR,50203010,5020,Media & Entertainment
+TXMD,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+TXN,45301020,4530,Semiconductors & Semiconductor Equipment
+TXRH,25301040,2530,Consumer Services
+TXT,20101010,2010,Capital Goods
+TYL,45103010,4510,Software & Services
+TYME,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+TZOO,50203010,5020,Media & Entertainment
+UA,25203010,2520,Consumer Durables & Apparel
+UAA,25203010,2520,Consumer Durables & Apparel
+UAL,20302010,2030,Transportation
+UBA,60101070,6010,Real Estate
+UBER,20304020,2030,Transportation
+UBFO,40101015,4010,Banks
+UBSI,40101015,4010,Banks
+UBX,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+UCBI,40101015,4010,Banks
+UCTT,45301010,4530,Semiconductors & Semiconductor Equipment
+UDR,60101060,6010,Real Estate
+UE,60101070,6010,Real Estate
+UEC,10102050,1010,Energy
+UEIC,25201010,2520,Consumer Durables & Apparel
+UFCS,40301040,4030,Insurance
+UFI,25203030,2520,Consumer Durables & Apparel
+UFPI,20102010,2010,Capital Goods
+UFPT,15103020,1510,Materials
+UFS,15105020,1510,Materials
+UGI,55102010,5510,Utilities
+UHAL,20304020,2030,Transportation
+UHS,35102020,3510,Health Care Equipment & Services
+UHT,60101050,6010,Real Estate
+UI,45201020,4520,Technology Hardware & Equipment
+UIHC,40301040,4030,Insurance
+UIS,45102010,4510,Software & Services
+ULH,20304020,2030,Transportation
+ULTA,25504040,2550,Retailing
+UMBF,40101015,4010,Banks
+UMH,60101060,6010,Real Estate
+UMPQ,40101015,4010,Banks
+UNB,40101015,4010,Banks
+UNF,20201070,2020,Commercial & Professional Services
+UNFI,30101020,3010,Food & Staples Retailing
+UNH,35102030,3510,Health Care Equipment & Services
+UNIT,60101080,6010,Real Estate
+UNM,40301020,4030,Insurance
+UNP,20304010,2030,Transportation
+UNT,10102010,1010,Energy
+UNTY,40101015,4010,Banks
+UNVR,20107010,2010,Capital Goods
+UPLD,45103010,4510,Software & Services
+UPS,20301010,2030,Transportation
+UPWK,20202010,2020,Commercial & Professional Services
+URBN,25504010,2550,Retailing
+URGN,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+URI,20107010,2010,Capital Goods
+USB,40101010,4010,Banks
+USCR,15102010,1510,Materials
+USFD,30101020,3010,Food & Staples Retailing
+USLM,15102010,1510,Materials
+USM,50102010,5010,Telecommunication Services
+USNA,30302010,3030,Household & Personal Products
+USPH,35102020,3510,Health Care Equipment & Services
+USWS,10101010,1010,Energy
+USX,20304020,2030,Transportation
+UTHR,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+UTL,55103010,5510,Utilities
+UTMD,35101020,3510,Health Care Equipment & Services
+UUUU,10102050,1010,Energy
+UVE,40301040,4030,Insurance
+UVSP,40101015,4010,Banks
+UVV,30203010,3020,"Food, Beverage & Tobacco"
+V,45102020,4510,Software & Services
+VAC,25301020,2530,Consumer Services
+VALU,40203040,4020,Diversified Financials
+VAPO,35101010,3510,Health Care Equipment & Services
+VAR,35101010,3510,Health Care Equipment & Services
+VBIV,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+VBTX,40101015,4010,Banks
+VC,25101010,2510,Automobiles & Components
+VCEL,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+VCRA,35103010,3510,Health Care Equipment & Services
+VCYT,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+VEC,20101010,2010,Capital Goods
+VECO,45301010,4530,Semiconductors & Semiconductor Equipment
+VEEV,35103010,3510,Health Care Equipment & Services
+VEL,40102010,4010,Banks
+VER,60101010,6010,Real Estate
+VFC,25203010,2520,Consumer Durables & Apparel
+VG,50101010,5010,Telecommunication Services
+VGR,30203010,3020,"Food, Beverage & Tobacco"
+VHC,45103010,4510,Software & Services
+VHI,15101050,1510,Materials
+VIAC,50201020,5020,Media & Entertainment
+VIACA,50201020,5020,Media & Entertainment
+VIAV,45201020,4520,Technology Hardware & Equipment
+VICI,60101080,6010,Real Estate
+VICR,20104010,2010,Capital Goods
+VIE,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+VIR,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+VIRT,40203020,4020,Diversified Financials
+VIVO,35101020,3510,Health Care Equipment & Services
+VKTX,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+VLGEA,30101030,3010,Food & Staples Retailing
+VLO,10102030,1010,Energy
+VLY,40101015,4010,Banks
+VMC,15102010,1510,Materials
+VMI,20103010,2010,Capital Goods
+VMW,45103020,4510,Software & Services
+VNCE,25203010,2520,Consumer Durables & Apparel
+VNDA,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+VNO,60101040,6010,Real Estate
+VOYA,40201020,4020,Diversified Financials
+VPG,45203010,4520,Technology Hardware & Equipment
+VRA,25203010,2520,Consumer Durables & Apparel
+VRAY,35101010,3510,Health Care Equipment & Services
+VRCA,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+VREX,35101010,3510,Health Care Equipment & Services
+VRNS,45103020,4510,Software & Services
+VRNT,45103010,4510,Software & Services
+VRRM,45102020,4510,Software & Services
+VRS,15105020,1510,Materials
+VRSK,20202020,2020,Commercial & Professional Services
+VRSN,45102030,4510,Software & Services
+VRTS,40203010,4020,Diversified Financials
+VRTU,45102010,4510,Software & Services
+VRTV,20107010,2010,Capital Goods
+VRTX,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+VSAT,45201020,4520,Technology Hardware & Equipment
+VSEC,20201070,2020,Commercial & Professional Services
+VSH,45203015,4520,Technology Hardware & Equipment
+VSLR,20104010,2010,Capital Goods
+VST,55105010,5510,Utilities
+VSTO,25202010,2520,Consumer Durables & Apparel
+VTR,60101050,6010,Real Estate
+VVI,20201070,2020,Commercial & Professional Services
+VVV,15101010,1510,Materials
+VYGR,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+VZ,50101020,5010,Telecommunication Services
+W,25502020,2550,Retailing
+WAB,20106010,2010,Capital Goods
+WABC,40101015,4010,Banks
+WAFD,40102010,4010,Banks
+WAL,40101015,4010,Banks
+WASH,40101015,4010,Banks
+WAT,35203010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+WATT,20104010,2010,Capital Goods
+WBA,30101010,3010,Food & Staples Retailing
+WBC,20106010,2010,Capital Goods
+WBS,40101015,4010,Banks
+WBT,20106020,2010,Capital Goods
+WCC,20107010,2010,Capital Goods
+WD,40102010,4010,Banks
+WDAY,45103010,4510,Software & Services
+WDC,45202030,4520,Technology Hardware & Equipment
+WDFC,30301010,3030,Household & Personal Products
+WDR,40203010,4020,Diversified Financials
+WEC,55103010,5510,Utilities
+WELL,60101050,6010,Real Estate
+WEN,25301040,2530,Consumer Services
+WERN,20304020,2030,Transportation
+WETF,40203010,4020,Diversified Financials
+WEX,45102020,4510,Software & Services
+WEYS,25501010,2550,Retailing
+WFC,40101010,4010,Banks
+WGO,25102010,2510,Automobiles & Components
+WH,25301020,2530,Consumer Services
+WHD,10101020,1010,Energy
+WHG,40203010,4020,Diversified Financials
+WHR,25201040,2520,Consumer Durables & Apparel
+WIFI,50102010,5010,Telecommunication Services
+WINA,25504040,2550,Retailing
+WING,25301040,2530,Consumer Services
+WIRE,20104010,2010,Capital Goods
+WK,45103010,4510,Software & Services
+WLDN,20202020,2020,Commercial & Professional Services
+WLFC,20107010,2010,Capital Goods
+WLK,15101010,1510,Materials
+WLL,10102020,1010,Energy
+WLTW,40301010,4030,Insurance
+WM,20201050,2020,Commercial & Professional Services
+WMB,10102040,1010,Energy
+WMC,40204010,4020,Diversified Financials
+WMGI,35101010,3510,Health Care Equipment & Services
+WMK,30101030,3010,Food & Staples Retailing
+WMS,20102010,2010,Capital Goods
+WMT,30101040,3010,Food & Staples Retailing
+WNC,20106010,2010,Capital Goods
+WNEB,40102010,4010,Banks
+WOR,15104050,1510,Materials
+WOW,50201030,5020,Media & Entertainment
+WPC,60101010,6010,Real Estate
+WPG,60101070,6010,Real Estate
+WPX,10102020,1010,Energy
+WRB,40301040,4030,Insurance
+WRE,60101010,6010,Real Estate
+WRI,60101070,6010,Real Estate
+WRK,15103020,1510,Materials
+WRLD,40202010,4020,Diversified Financials
+WRTC,45203010,4520,Technology Hardware & Equipment
+WSBC,40101015,4010,Banks
+WSBF,40102010,4010,Banks
+WSC,20103010,2010,Capital Goods
+WSFS,40102010,4010,Banks
+WSM,25504060,2550,Retailing
+WSO,20107010,2010,Capital Goods
+WSR,60101070,6010,Real Estate
+WST,35101020,3510,Health Care Equipment & Services
+WTBA,40101015,4010,Banks
+WTFC,40101015,4010,Banks
+WTI,10102020,1010,Energy
+WTM,40301040,4030,Insurance
+WTRE,40301030,4030,Insurance
+WTRG,55104010,5510,Utilities
+WTRH,25502020,2550,Retailing
+WTS,20106020,2010,Capital Goods
+WTTR,10101020,1010,Energy
+WU,45102020,4510,Software & Services
+WVE,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+WW,25302020,2530,Consumer Services
+WWD,20106020,2010,Capital Goods
+WWE,50202010,5020,Media & Entertainment
+WWW,25203020,2520,Consumer Durables & Apparel
+WY,60101080,6010,Real Estate
+WYND,25301020,2530,Consumer Services
+WYNN,25301010,2530,Consumer Services
+X,15104050,1510,Materials
+XAN,40204010,4020,Diversified Financials
+XBIT,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+XEC,10102020,1010,Energy
+XEL,55101010,5510,Utilities
+XELA,45102020,4510,Software & Services
+XENT,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+XERS,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+XFOR,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+XGN,35102015,3510,Health Care Equipment & Services
+XHR,60101030,6010,Real Estate
+XLNX,45301020,4530,Semiconductors & Semiconductor Equipment
+XLRN,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+XNCR,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+XOG,10102020,1010,Energy
+XOM,10102010,1010,Energy
+XPER,45301010,4530,Semiconductors & Semiconductor Equipment
+XPO,20301010,2030,Transportation
+XRAY,35101020,3510,Health Care Equipment & Services
+XRX,45202030,4520,Technology Hardware & Equipment
+XXII,30203010,3020,"Food, Beverage & Tobacco"
+XYL,20106020,2010,Capital Goods
+Y,40301050,4030,Insurance
+YCBD,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+YELP,50203010,5020,Media & Entertainment
+YETI,25202010,2520,Consumer Durables & Apparel
+YEXT,45103010,4510,Software & Services
+YGYI,30302010,3030,Household & Personal Products
+YMAB,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+YORW,55104010,5510,Utilities
+YRCW,20304020,2030,Transportation
+YUM,25301040,2530,Consumer Services
+YUMC,25301040,2530,Consumer Services
+Z,50203010,5020,Media & Entertainment
+ZAGG,25201010,2520,Consumer Durables & Apparel
+ZBH,35101010,3510,Health Care Equipment & Services
+ZBRA,45203010,4520,Technology Hardware & Equipment
+ZEN,45103010,4510,Software & Services
+ZEUS,15104050,1510,Materials
+ZG,50203010,5020,Media & Entertainment
+ZGNX,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+ZION,40101015,4010,Banks
+ZIOP,35201010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+ZIXI,45103010,4510,Software & Services
+ZNGA,50202020,5020,Media & Entertainment
+ZS,45103020,4510,Software & Services
+ZTS,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+ZUMZ,25504010,2550,Retailing
+ZUO,45103020,4510,Software & Services
+ZYNE,35202010,3520,"Pharmaceuticals, Biotechnology & Life Sciences"
+ZYXI,35101010,3510,Health Care Equipment & Services
