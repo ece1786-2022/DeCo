@@ -13,6 +13,8 @@ In today's rapidly changing business environment, companies often enter and exit
 ## Illustration / Figure
 
 A detailed overview of the implementation of the project:
+
+
 ![alt text](https://github.com/ece1786-2022/DeCo/blob/final_edits/data/project_figure.png)
 
 
