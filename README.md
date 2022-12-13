@@ -24,11 +24,11 @@ DeCo
 +-- data:   Has all data related to DeCo Project.
 +-- phase1: Initial and intermediate phase of development.
 |   +-- notebooks:  All notebooks related to phase 1 of the project.
-|   +-- saved_model_weights:    Saved model weight from phase 1 of the project.
+|   +-- saved_model_weights:    Saved model weights from phase 1 of the project.
 +-- phase2: Final phase of development.
 |   +-- notebooks:  All notebooks related to phase 2 of the project.
-|   +-- saved_model_weights:    Saved model weight from phase 2 of the project.
-+-- ui_notebook: Code to generate Gradio UI using saved weight from phase 2.
+|   +-- saved_model_weights:    Saved model weights from phase 2 of the project.
++-- ui_notebook: Code to generate Gradio UI using saved weights from phase 2.
 +-- README.md:  Information of DeCo.
 ```
 
