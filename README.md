@@ -18,8 +18,8 @@ A detailed overview of the implementation of the project:
 ![alt text](https://github.com/ece1786-2022/DeCo/blob/final_edits/data/project_figure.png)
 
 
-## Repo Structure
-
+## Folder Structure
+```
 DeCo
 +-- data:   Has all data related to DeCo Project.
 +-- phase1: Initial and intermediate phase of development.
@@ -30,6 +30,7 @@ DeCo
 |   +-- saved_model_weights:    Saved model weight from phase 2 of the project.
 +-- ui_notebook: Code to generate Gradio UI using saved weight from phase 2.
 +-- README.md:  Information of DeCo.
+```
 
 ## Additional Information
 
