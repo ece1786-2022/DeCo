@@ -12,7 +12,7 @@ In today's rapidly changing business environment, companies often enter and exit
 
 ## Illustration / Figure
 
-
+![alt text](https://github.com/ece1786-2022/DeCo/blob/final_edits/data/project_figure.png)
 
 
 **Note:** Some data files are split into parts as Github is not allowed to upload a file greater than 25 MB.
